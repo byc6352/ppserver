@@ -1,0 +1,552 @@
+2019-09-21 11:33:55:712
+ss1ClientRead:GaDCq4vxblANtbQvDJKaObGUCprTUK2mtW/Nim4Jq81M9B185clidLV8JkSYVM+PDOViiiUhsB1UIjiR7ku0x3EYJ3pSevZRCwHU3Q2yeUqfdT6HGGGkRsvojA6E/fv/BfL+myn7vJTbukxA3Mcva4CLMkn6/eCHxwRSVAwqZEcd8c7Yi881yKcmW2Otx8XJdsDXcAYv5I/01YahvELAqpLbq3D/jW96uMm8+8t4JSiHn8QMRQuuHw==
+2019-09-21 11:33:55:714
+ss1ClientRead:{requestid:"55409110.f113401802",timestamp:"113401802",bidnumber:"55409110",checkcode:"ee8228a28ff699c72e0c0d9a3f8c467d",version:"1.0"}
+2019-09-21 11:33:55:714
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921113355"}
+2019-09-21 11:34:01:376
+ss1ClientRead:8nVchjfDVqI8zzA/ifZTv5vqKTUT+ZN1V6g3U9Nzf5+dCqBTMFqC+zNks9oXLPdaSHDkorStJW8YbM8BWswgCCZewRnBUjdfXet9cm7S/ZZgozUPjxk0YlmOT+ugogyjkYh2hCoCKlrw3oys66afv8qtO83Egdg+FGCqBN1Pa0k7Fvo9ElVcWoLeRzNx8iOcpanIY4B0RqTyWKHO1loqywO05zihuMc44so+vdj6REkZ+S46Kh4fb9HgAUrRm5AnCfZ03cYpjWPzhTF/7VRz4oCApinggCXlu+woyw==
+2019-09-21 11:34:01:381
+ss1ClientRead:{requestid:"55409110.f113407476",timestamp:"113407476",bidnumber:"55409110",checkcode:"8535652c20cd74cf54b66f70a364a8a0",version:"1.0",request:{bidamount:94300}}
+2019-09-21 11:34:01:386
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f113407476","servertime":"20190921113401"}
+2019-09-21 11:34:01:397
+{nre0o"eap:角验p,hT"0ei}u:13"e:90"sec,n:str"行码e"ao13xo}e"14,r"21reso"s"sao输数""cIk42pn,s500"t21"e"pdreS""m入字,:ame25r""t5.7si01}s:oeemu,:p红图""pan3"e:ri4f4em11 p{n"ssc"{t色像t0tg"8,s"ed017re93 o"s:pgcd""三校y"ce:5"s"q"916v"04
+2019-09-21 11:40:27:305
+ss1ClientRead:qEPakDuXPi1yGL+D5m/4VVw/t9d68BhyrCWrwsq1DLKH6loeI8RdGL+g0E8i+hEdYK4gtyX5twQMisd/WbzYNx+D/WICI52Yz0J8Pvtt/jEdzQKP5HRTqQNwUzOhU3ce1uZzj+IiqzZiDD/wSEWYWTdY/fIoiY/WbS6jqzxJ/lZOXOu6hLo1FLDKzkNuE+dX5b0xQIK9fM6Fz1mLytVKaZXFNSvSoQ7C4rGb7yN6HVRFm8yBq3b0cQ==
+2019-09-21 11:40:27:313
+ss1ClientRead:{requestid:"55409110.f114033408",timestamp:"114033408",bidnumber:"55409110",checkcode:"03717f36d6ae18dad655a3a39bd36e3e",version:"1.0"}
+2019-09-21 11:40:27:315
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921114027"}
+2019-09-21 11:40:37:075
+ss1ClientRead:Tyd83rv6Xmnuc+rUO2B2sdjSj4ckU4KyI0jAn4uD3+msE2W06sxtUrBdpAlNlOSSeefWHxbFmo77YiHAOhco+E588X9geLPn9hDYklFteMS+yiaL4DNqPijmU7AxRXnWXp9rRoFv4V8jlOODOVGrl+MGYmDVnLJkTR015HUMXM5AIfvOELRNlB30n5feHIZk9f/jHpACHPLqoDu0FbE/blDjUOmTb0aPt6yQqIz7qqfL9K8D3IiJlE/WAijK1F3hhfO03ZgcRh4O9mgZ5vyYrAva0lsFZ9CWoJNSbw==
+2019-09-21 11:40:37:079
+ss1ClientRead:{requestid:"55409110.f114043181",timestamp:"114043181",bidnumber:"55409110",checkcode:"ea6421f617ebcdfe287f639f1f93237b",version:"1.0",request:{bidamount:91900}}
+2019-09-21 11:40:37:085
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f114043181","servertime":"20190921114037"}
+2019-09-21 11:40:37:094
+/afrL4DpIo4mQM7qhHy1zcs+XJj3U9+8SbAtDUJ+eZUWcD/oc7VXJowk+XJtaLpsCFDLbm7X9REXgjELOsCuVhgo1RJn6jygwozHvdoUDH62lZ78iFIms7zu/E235L8jfSope6brvWhsSnSEI+WU0JQJYjKTcTatKbvpICJm+WJ+3tE31Ob7wxAkZbZK4FuiBhhXO5lMpsWbfpAD3R30SP+diqnBgCd98ml5eVQQkGxyydmAZsMDIfM/JY3Vf3qmNrlbhH8IYl8wcCwqoM/D8hjtewYkeXTAJEZ3CalKFmfRfHrtlLOncCaAHMsCYG6m29HVqrxp72cr64Xu2zO/AkBayOPiAelEmGcseIQlEuES8iIW+TbF2HMlNEQfErS4Y08s7GBVasCvSoez6tuu4UsPDKCe/9OBH2BS8Eawr48bdRx9oT32DA==
+2019-09-21 11:40:37:510
+ss1ClientRead:IKltnbUZgBwvRfCFlLUnArXCOccCEE/MxHDFTI6r9MATstyaU4UiiJ4HMTrvANMAFxWUSrdXYOzcSOfJdKXQQVkC6GxG9m1Bt9vOCYIGUlbc+FKB1OtS1IWMzKZYd9iwmaXdngf56Ynq3SuSzTwhYHGLhs3dCUzXyItSTClLXrqTTIgJAB6YX5gLeT12b+4vV9tbYo2MBcB8JdToGDldVW4fWWVpFiUpG5qlsncn6WxaU4F+Gf+aT7TiQ7U7mQ/fjCGAoBvufSMxnaPP5OqeCdxtG8U46M+HZtGSQ3dwOc2cXUAyPLVaA2TltErQMd/GLdB80t+RrO3osaPlmXYDoEYtvX7WtImHkg+GCg==
+2019-09-21 11:40:37:514
+ss1ClientRead:{requestid:"55409110.f114043607",timestamp:"114043607",bidnumber:"55409110",checkcode:"e012bc6b81ef7a905578dd2e679c53a3",version:"1.0",request:{token:"1423850325",referenceId:"0.5628384654410183"}}
+2019-09-21 11:41:12:565
+{referenceId:0.5628384654410183}}
+2019-09-21 11:41:32:440
+{n.41rc568ee653fI24}ed84}r:31 e080
+2019-09-21 11:42:18:691
+ss1ClientRead:ra/ulllqtg3FOoXe4G6z9YKx1A3yzxXwQbxuFxisQAN3XnSDv1JGJbwAR4EfrflBFV2GkiKbzQ7LcGGVIgwp1M4mZXrHb2j0/1BqVlyJ3Euhr7d8FkB/r+mTM4PrsFsQSzBV4YiYns9ncErv0mjniEDKcRlPwvavEoFp1OfHnXgCND2VkHrEDOjeSfvX95nHJW9zaM8kF21qlH2E8rZ8fqNBRwlnCuyeZ9vg5pl+tvUJU15lv6u8mg==
+2019-09-21 11:42:18:699
+ss1ClientRead:{requestid:"55409110.f114224797",timestamp:"114224797",bidnumber:"55409110",checkcode:"a86aa5db0507fb7ad06b8723e0bacb4d",version:"1.0"}
+2019-09-21 11:42:18:700
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921114218"}
+2019-09-21 11:42:37:555
+ss1ClientRead:Fop3sX49Peog1LvnsCrVj1Pd/H+cqgifRYR//nm8tGxzjL4ZPUO0UiZXApEBCc/WHmQQ4LydFFtbLV/t7oAQdGIZHd4W4gFOkx7baCQVI8kbeyMCxd+iGo7goLRm7e7+ON4W8fDtETFe4qFF4vVEqqHJnZNKFPKIJyezksHk1VbHdqdKZnin69ac4WNehg2wt+MuPPJ9+HOiI1tzjcO7yOQxBODgn+moYyIavMzHtawOW7f15h87Uw==
+2019-09-21 11:42:37:557
+ss1ClientRead:{requestid:"55409110.f114243658",timestamp:"114243658",bidnumber:"55409110",checkcode:"8d258bb6a460b8cc23ac492a1eebdae2",version:"1.0"}
+2019-09-21 11:42:37:558
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921114237"}
+2019-09-21 11:42:43:338
+ss1ClientRead:KA1a9tj3sORQJZSfvbikhtDlL9Z14PqapsHVbvlPrV6DvYSfrbMo+blpxwK37zRTsciFNqOLjIVSJ09DSNMAuCeCi+JO7GSSKCpdmx1fgxSfp01fNnBLlOV5mxfnM1w4r4CTFI5C+ey+VVAJRHVCyfFiJAzmtkmg26gJXeNDLLFMJX/lOTwqNNC13e9nLqfHNO/iLzi+1YX3cxq+mcfyvOBac76ray9f2xAQhxugD4mn2d8iiTQrLdJfbWoY9og3IbEa1JxhAYIQ4YSwm44hVOLz256sMsDnooJT7Q==
+2019-09-21 11:42:43:342
+ss1ClientRead:{requestid:"55409110.f114249446",timestamp:"114249446",bidnumber:"55409110",checkcode:"02a1e01eb3f36041e4762047e5ccf5ef",version:"1.0",request:{bidamount:92400}}
+2019-09-21 11:42:43:349
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f114249446","servertime":"20190921114243"}
+2019-09-21 11:42:43:358
+hXFRTEVQ5yVaC6bI6lVzzU6uByZUHPqUsU+rAeUyORRFwFIC4hFRPFHw8EauH/vJl5WKgZsPU25Q68DTBOuSLMRYgszYK1m47e8YD1sDJIeuooFZpiuNIHnEtA7gGw32Lk20YpghVoTE9wmnK/2ci0AtF1Port7svWSqbOAJGqdfmcl97H1Tf5FknTBasWKgvMLb+k/9fODIeeJkBz0mMzrtf5rtKCsN53M8QdwNrrDWLzmkoC7yg8c52Q5dZeZAYsP+HuDpKdDbIbnZPip4rMHRlxsuGWXM2oJ09IFeBiCvEGWzzBuUAf75HAawvr5qxQYKxUQO/k3C8sNtcHPIM95nXN1NWYE2VMULr2IIdo73wqg7Sb19S3IT09Hqfs2ihSHSg3Lz7Vwxiqlf+mjSx676xZ4EGTGFvmQyAmnPo18XZXJApo1+/w==
+2019-09-21 11:42:43:647
+ss1ClientRead:T4Bgv6sgGQwzKgatVwDLrhrwdgQv0NwO0u5mTiM/fgyMBPTzVEO2TAlq8mlZrbq346sp4yN/IqSA82nEswpjm5jqEZeVDAHtCzDcmi45tyJ0f9Ju3juqCcuxGjwKkINvYCz+lPnhx1xQLrz90TH4wKdYGGrA/e5pUt8TSi0ig0y8HiFCAQ5v+lTJ3QBYEv0NPQ8kugOVkwazL0RKWflpk5mE/O/bYUwQ7A6GF1KV1LyyoiKoa9sh7pAt8cFiYfCZaP2mlBL3t26TYBwPceW2VbvIw90JbWiCc8uSP4Rw4Lo7XNSlEWZKL7rvbS8P0lnNuPG/H4KV7qqO+RbhGWr1xIOyv+Tf72ewZKkcWQ==
+2019-09-21 11:42:43:651
+ss1ClientRead:{requestid:"55409110.f114249755",timestamp:"114249755",bidnumber:"55409110",checkcode:"0ddabd58da578d6b81fd7ff9fe23684e",version:"1.0",request:{token:"1423850325",referenceId:"0.9735941663384438"}}
+2019-09-21 11:43:01:710
+{referenceId:0.9735941663384438}
+2019-09-21 11:43:08:485
+zhSQbRbn/kTyeEVFX/ePXxR5/wlgdT5XmKvKdV3jQ66vuXXG6G4AiJRniI705Uw4
+2019-09-21 11:44:21:192
+ss1ClientRead:BmmHtJMDDrPrj6dqYu9PXV95EdSVG77yhvevy3zFA5jREHwdgexaDd9uSwsJI0PHFKjs1PPgXzx5FUva4T4XWqFmjB2T6oUTooeF1cM+dd06DtpgoKgEQet9R3Qb3/ZtKwB6QRdVqWIsEP9BcPnQ7a2/mnRDlyonISC0QOagjfKmdheUE3jbZDDLEoBoEzasqjYWkNeqNHquDGxpn4XQ81uITDUwXJ+t8iwgzJ6CXXCAx/lEDwUOKg==
+2019-09-21 11:44:21:196
+ss1ClientRead:{requestid:"55409110.f114300604",timestamp:"114300604",bidnumber:"55409110",checkcode:"a197e8d54e37a9620f9191d5506b040d",version:"1.0"}
+2019-09-21 11:44:21:206
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921114421"}
+2019-09-21 11:55:31:267
+ss1ClientRead:ZzN/5cPUoAj8YbY0FaP/x1wMfuQoGnOSh6bstIEfDtekzbExYruRuN8CZqTxVlKGB40Pu2moRweynGxH2zbeZrikhkgmF080/yG0Ujc0snAt+qDqkZcJpIWdHYftKONzym6YqDUASbLfFNhPUi0dsOJ3YglXQ4t1gPp5QLDrZFURLvx4wjclv/oB1s8uh8P0kI4UsoVVFz6PAkvbUaVTftS5yP0sEvLsOxi8VlZArbUqEyjoJ4WX0A==
+2019-09-21 11:55:31:276
+ss1ClientRead:{requestid:"55409110.f115537383",timestamp:"115537383",bidnumber:"55409110",checkcode:"b578e4046da2e64bfdd5f4c4e95f3e37",version:"1.0"}
+2019-09-21 11:55:31:279
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921115531"}
+2019-09-21 11:55:39:881
+ss1ClientRead:OqvBDh/Ff3GjHf2J5SliP5W0TI1sWdseL7B6MePSZLWxQUkGaLd8o2/K3EEnv9CTZXBYye3iKJFOko8TZ6f9dIIlcnrp7DqESD54qNujwEIX9Gm8rSo8h1Zw63QtjtEGHpHabUps5AAEJ6aU4h9TfaflY6mTUd5ZwSpjXwdmX71yVWBl8cOWY73tpUJ8MU6vO75BWDg4vOC83brXsQkMtckbBxDgzJsWkEkZmAy0Pq05wsWQXhHxoR39OuCWAzUu0wGFQwYpjg+8BXW1oG4BFHHIzheNQCcRKtFPQQ==
+2019-09-21 11:55:39:885
+ss1ClientRead:{requestid:"55409110.f115546002",timestamp:"115546002",bidnumber:"55409110",checkcode:"9cdd3b4e870b0892c9a703d38582a288",version:"1.0",request:{bidamount:92100}}
+2019-09-21 11:55:39:890
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f115546002","servertime":"20190921115539"}
+2019-09-21 11:55:39:899
+mOPwWpOHt9+LFPHU+lDcATgjzMy6SPBiOf/uKzrJ5CKrOvUZwp7tDlIQVzxE2zScIdKAagyq7LZnWXZU0heD729qM9G01xqhYQCyMwBkA1+4oUlMHhMFmqgMnoQ7eE9kbcCiAfScBeKH4oJ8Ln6SOekzG6jrbt5J4MaQkcz9FDNm6GuBAslfsPgpaPEt9M4Fo5aHuohaYo3JCNQbmQGsi05xZroxgZF6QJkdrx+mOdRaBlMiV9HZyzNubqxpE0XYRHETvn5wh+m8uI1JaWSEnZMlNqD9oTjjwasmJrjQK1QSXkiS3K102Z9ndwiD9trfwaV+eEbOYUliK5ySEgbhHt8DFOdCl2H9X0QTKJMFDhJkDdq1MvK8FJbXC/nlhpUDfZSAZc30GrKtGlgnfuUiuSMBRD6iaEwD1EA/D5Eq/6ZjbStZtdDD6g==
+2019-09-21 11:55:40:204
+ss1ClientRead:S07kvoiX5A38UB5bPuc4vz51TL6Jxi/SK/KBEgnVciYH+pmqgneMzrzo2Jp+MBI7x+N5TRWPa0a0stxagf2TPkp6MtoEJOky3T6tgXL45q9oRSczXyoyqEq4ry9LZKa8hl8mUGZje65L9qT/P2DS6ckDDPz35KXVmCFuExPSQJ+yP74e8q9NDUN9EGYDdE/qWNThBbhTPcHgI/QCzTv118wTFU6iMwNHlcGzQz0Tc+gbS3cz/7M5AJRlCnJV4wu7UpaVr2LfWtKBnIftl94DBdBWi0LQGkjsY7gjgxtdp1MoDQEl9lruo74DOByQKG1sYhDDP3S4fStgRmfA6QJhkzTV+qStx5Cp4lrkrg==
+2019-09-21 11:55:40:208
+ss1ClientRead:{requestid:"55409110.f115546323",timestamp:"115546323",bidnumber:"55409110",checkcode:"00cb960c445123e900e15c5d19d5b3c7",version:"1.0",request:{token:"1423850325",referenceId:"0.701526531483978"}}
+2019-09-21 11:56:16:993
+{referenceId:0.701526531483978}}
+2019-09-21 11:56:18:910
+MRzcl50IJnpjb1IEvJ3eFE5pmW6/AdsZpHQFHP9BHlvh5od/grQlFT/RCxyhkMOK
+2019-09-21 11:57:10:649
+ss1ClientRead:yxbENuClfJ8bsJaKwxH133W47TpQ1CHzMF6WL94owzPm11Tw3XkSmFC8VULUK/ZqiD5HmyWJxpKF3lj5kRqSh0CH99j0s4bdl6YeSCEjJV8Os5E2Cm5H0mRGsd1paTdVd5yLesd+7O3cgjmcOPFd1Jgczpp9/VQQmmVQDStSOVrQqR6RIt3MG8MolnAVLWefPcxbBmr5SOo3gR1nT5RnXtOMg+zyqFAoIXK6MTAPib9CVUAho1wexQ==
+2019-09-21 11:57:10:653
+ss1ClientRead:{requestid:"55409110.f115557376",timestamp:"115557376",bidnumber:"55409110",checkcode:"5680b783127709705ca0fbc6bac62110",version:"1.0"}
+2019-09-21 11:57:10:658
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921115710"}
+2019-09-21 12:04:11:406
+ss1ClientRead:SGRXL+ytqoOFz+PJrBQB1O4bA0w++gjSWpuvdmBPA/2nYaWFMx1m2D92Rj+z/8/NmMx1S1azygy3sWYpTwMYIpBTNix8J5abi+igMcIbcKDSA6LdWr7iYQg7Ktd1xIaP1VE2j+w09ZXi/p/PaO9Kg4FT9tOI1nBnl0pXHmMoeZimTq5pMqFceA4Qjk89vYMvbS1P7SJoI72Bh1JioT9MLgfSjB2Dbo8vGkIR+hcqxZSypxHoMSsa1g==
+2019-09-21 12:04:11:420
+ss1ClientRead:{requestid:"55409110.f120417532",timestamp:"120417532",bidnumber:"55409110",checkcode:"228360bc141743ab7e52392ddaeb0b12",version:"1.0"}
+2019-09-21 12:04:11:423
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921120411"}
+2019-09-21 12:04:15:986
+ss1ClientRead:pmVmn87vUB0eh2+CgTNBIvFD/u01TaogB3hgfyGrOyHyGtEK8lgjEhUP60mOgd7ZGcOnTxl8ksW/9aT9/7Ko6bvCnQxx1abd6DvTufH2el+rSrFT6/WiC0weHfon1WHB6KoNSnrPsMZadteGRm+aI8xCG6HNSag355loj4FTJsZxYqFbLsGjJhve/W3AcTncw8LdpmjF5CHTgWtp2w35O7+LglT1afI7oPFgmjn/M1md0skS79WYfKqRvR60mFr+dY3CxDOF8DV/q5vnSoefTXVCIAzPpDnycIH6Hg==
+2019-09-21 12:04:15:990
+ss1ClientRead:{requestid:"55409110.f120422112",timestamp:"120422112",bidnumber:"55409110",checkcode:"d52b334cd42edceb31ba90ffefbec80e",version:"1.0",request:{bidamount:89700}}
+2019-09-21 12:04:15:995
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f120422112","servertime":"20190921120415"}
+2019-09-21 12:04:16:004
+4FLbMo1Z8iYBu0qQi6A31UJahm6zv3uRdJZzkULGl3J63xxz4flnxufyNob/ystpw+/ptsW/vv5JnY/AK4CJ4KF5IfRL749yjcC9I8jjvI4Dyawn5N+Q1dRfwWfKgg7Q3gYKQJ8klc05+buxNicfsoNP0bHD1SfxZTDh/5M1mYqlDhXj9cl8mo0Wyt31PqIKoL/cMSKbq+AJDo/hWNZe9SZNsA9t+eUlBEA5ElcF44WriBKBvQaUVnfZhEJ3T1J16bUxLBzXglmDNICtTikxzJN8nXdPH9Np39FUooHdNdTv2Tev5fDaMCO3DeJkgif6Odqh29nt281oANw6NU57HMuq7vYSv6wrZNc9kzFcJEyHpmX0bxiz6C9/PxiUy2m87yOGdCztG2wnHneygS6uiJbJ63JZK9iSkG5qyMhoMguDTfaF+mV5Nw==
+2019-09-21 12:04:16:314
+ss1ClientRead:kR257pydlDMPMcY778sNBBwZ4T+aAEISu/oE24XTXtNTlyed0e8pwNDMWsCOarTt8bzLalkcNy2mcPZ1WzAzdjzuu2JVtgJ5VNA9/oJTpeHNW3u7jgfwpJwaYWv0ppNSAqWd7Sdi7GBsXL+90CH/jTNSisUeCAvZnjn2YswQZaeA6c65z+UQF1a94R5m848qEYVVhDX9TNGX6Fus55rMHKS4gX9/gNjeYPM1sdCgrPLEg+aNOcv3b34yJpVhWps9NB/JKYbZhbOlRmIswhtmQt6qyyVJMUUD4GP4O0hNsjFU1yMhFNVuPk8rudf7q1C/e0o1CUE2EV4XsMUUkn3WAtIehixOS8em+W12iQ==
+2019-09-21 12:04:16:318
+ss1ClientRead:{requestid:"55409110.f120422425",timestamp:"120422425",bidnumber:"55409110",checkcode:"8aeef509490ee64396eb09deb4ade069",version:"1.0",request:{token:"1423850325",referenceId:"0.45386397652328014"}}
+2019-09-21 12:07:00:878
+ss1ClientRead:4HbzgOH3q0d2HPxu6da3QNFIUUXygF2eh5cnZ8N92RsYTDVX+bZBrCSfx6nqlBpJPmnNo0lj/N713kGlHQ9jrfDF+icL0BDq29ljItHiQNUAU9B32iwZMbUYfYh3szi5aJY7gMM2if5d3dJBUGujTey8Y8rkEqS6Kgzci0uvA4/IyclGb1VWdpeeRpOlGjM2xFEBBVFqUAXGl73wyy+6JYLSFHqRTufBt9iOOsti/1ChWw8VULwdPg==
+2019-09-21 12:07:00:887
+ss1ClientRead:{requestid:"55409110.f120706994",timestamp:"120706994",bidnumber:"55409110",checkcode:"9006305b04d328c0a6a825760725361a",version:"1.0"}
+2019-09-21 12:07:00:888
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921120700"}
+2019-09-21 12:07:05:056
+ss1ClientRead:/ysjszmQs/mlPx44GXgaunSHp2lqN70LOHxGTE5ZSrHndqTuogqwvb+hze4CWP+Okn5ole2GLLMkfhZCNWlL1tTuzKS6ay5d6hTHPTQiv/431uGJZqs92t9iegPjMuIjXK6VhLT9Oi97E83sdxsIGbS94Ach0uQeB3mmhqrFeTTu5VZjQKHHqs0eQ4+obiH/88WUpRmU6aiqd2xgIjKAbOnbTWor/85KabTxTC6aLw9egvnIhChughwp7NlDz3Rxc6lLGQvjoWhNOFWEVEqHTwRrzN3LvNelOzkHGw==
+2019-09-21 12:07:05:060
+ss1ClientRead:{requestid:"55409110.f120711190",timestamp:"120711190",bidnumber:"55409110",checkcode:"898b7c19dbc247d42c4e371005cd33db",version:"1.0",request:{bidamount:88600}}
+2019-09-21 12:07:05:061
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f120711190","servertime":"20190921120705"}
+2019-09-21 12:07:05:066
+Fy4wW2ZviyYH7wLMt42F+vCuny8T8VszmBOyEmPlXn1ehvUf7D/4jdKTc3azxlSUEymSCV2nKuw6ETviBIlJoFcRmp59kamW0h8PemcVEdisNuBn41eI3TJr4IzgMIf5xd6lxHEhnKtEmz6pAJK7Dk5B1HVTPUduBUV/KCgsc1ocRkkvlE9Zz8/zJmlb9/1ktc8eIL5jXTqesqkXoaWJmukWvH8xfW/X/S+TOHQ515yi2zirVyOJrequo1sq/yCfEMRRowFgPH43XHQ3nd2Kld3qn4yDRx4DXup4q5TSIfGCY/qoM8BhmJmyXkRu+Htc9VUIbKSLlAeJ4gWFq3wsjB/YRmDQm4jPSqjMfgHb+5csrR6kNbE8RDBeN8XEEw62ex79eM9K2xbE2YkHiW45Wa7e239ro4dBq0c+b16VccnbiV7yEvP69Q==
+2019-09-21 12:07:05:382
+ss1ClientRead:15/CcFQmv5MbPyQr4wNUHRdIi0dkitCciDwYtHeQhc5tOUkybp2Z9GGZdn4MfYKNUKf4GVAH7v3Ynx6hFhG3Xb9froB2LO03C3tmarpNf3kuQ1tJdx1ezT2tr+4gSBpMr+ZmfBKrO7ih+YhBQKGdZrhEPOCO8cUn2h8jWVadGWIfoOsoACmgxQ9H07E+0rn2RxqOfiMF2vyADdrVfK3Qf1DIm9IBtB70gUwCHVBveUxu7ThpSOyHyxeE4WMnyGo9JS7YoPAVOXJgYWkoG/FuQHr03ne25+ksau2d7M5g+O8bi5Rj2M/HT9qOrIlgOXbREk7asqaEBP19tFJmZ5hByZQPVnbGTdyowelleA==
+2019-09-21 12:07:05:385
+ss1ClientRead:{requestid:"55409110.f120711500",timestamp:"120711500",bidnumber:"55409110",checkcode:"ecac00c2dda489efd9e5e57d2751aea9",version:"1.0",request:{token:"1423850325",referenceId:"0.07775521324947476"}}
+2019-09-21 12:07:28:884
+{referenceId:0.07775521324947476}
+2019-09-21 12:07:33:096
+4F/Ee4AtVjs6WeWyzd0/bjFKes2dU3UjU96PZS4ZoJP+ATsQi98hOqqbfH27oY1I
+2019-09-21 12:07:58:244
+ss1ClientRead:6RACVM56zKZmNYkFppGnU7mMWfPyE6APLHVdbzByKTqP1AO7G07GB0Hf8VoF1ToF6xphwRd3/cM61UYAdJGEJ/4zWcc479VAtUTPvScK6Tt6OgvIwutx+UlXzoSNbPyfY2pPk3jGQtM1gsYDvycGSDuOEQk1udidUqR3fmpdMkNh9qpLh7sWAaLDadzYcXnhaBpenMQt4qABXUxyco8hNLziX2GogUPeyGWqjVDrdyv0DGsYCOaXlQ==
+2019-09-21 12:07:58:246
+ss1ClientRead:{requestid:"55409110.f120722921",timestamp:"120722921",bidnumber:"55409110",checkcode:"c049605f24f6caa834a8c43b96831c31",version:"1.0"}
+2019-09-21 12:07:58:247
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921120758"}
+2019-09-21 12:08:14:250
+ss1ClientRead:0s8Q7wE7xZWggojFGduZnwa0U1tjVLakCSeJ6S3met4CZmXS1zwK5w2LdSjBpG4fC4Vx/bK7R5SfRvUnmyHqEA2LWnxEEvdLJhveC78bNj6s/SX5BTbvyT7zGvNXsy8nvAiEXaRlmq5gA6ll1qm8LlBrqfIrKyUxbWnqQxFuypmNLiCmvQ3SPH9/bzNxftL/XHVYe8gMNFtF6cDwCgs27lPMDyZTEa4fZzQfcJYctu7iZTqL7zR+LKyO13EKhiu8j5EdLh7vYhm4dT6QZUUCF05ee1TSmG9bh4Mn4w==
+2019-09-21 12:08:14:256
+ss1ClientRead:{requestid:"55409110.f120820386",timestamp:"120820386",bidnumber:"55409110",checkcode:"565ef39b41c5756d34bc2377d0a0ec11",version:"1.0",request:{bidamount:88600}}
+2019-09-21 12:08:14:257
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f120820386","servertime":"20190921120814"}
+2019-09-21 12:08:14:261
+LbyTaEVPoS6OIJnGrtu1FjAptsarzJsdmYeTTwCQ9YSm9sCJ5bMhfBcvY4eCAK7bf8rDacfalEJhZb1nvKtl1JAWUQlfqjbcZqPD6eFi/gtO58H4eOJtQKcbTNqezv0JHOcgF2YHJN+kC0p2AqcEl+B+oJxXN1BvK/4fA3OszNanpzBw+9anvH2nG7KMwQUBCYnwriomwRmRVdWGvs1m9Csd1FgYW+pSyDIePeC94fHrRdqSxCKabAn4YdeQgoQHu+zfT8eY+BqsO2cExn1nq8pi7aBt1U8Gx+WcXW1LNWYe1VK9+ke2VBGt1tkbfy2CiE+XElRkwziuOrT8KVa6hm3R7MiGEtderGckH9U1Bi41hBm6myZVpD7tWQAZtgQLb0V6a3TWGcGTCTX9IN9CdKJdZcH/9++09JzHTcDzs33IgxcxjOzaeg==
+2019-09-21 12:08:14:536
+ss1ClientRead:cegIC0LcRmnUUUVazQJB8uTfqg2vKlu4TqaSpPlHBpSMUakiCe50POdVMPvsaoIjfIOnFxYNpzndB+t+AgSRHg6oZmwzW50vbecq2OGn2fjlfL53AS9D32IwdAjNQBzzwMW9fInCJNi2NaZDkAgEZCgszd4OiZsE+sZDjaNyR2mjUS8zmMH/QdrHg/dPAYytWYd2dp130vx3O/XnbGEJEl+aNl5Toy1pA//bI8jb2S24CAQmOBZZzxSDtIUOkjZMJRL32yffEAsXJMay7OHZ4/1OhJWeaNaBl14qhVKqNgtmg5eSORQxzkcW1FvHFaCkQNu5Hy6OgnzXh3WM9Tzscr7JboTeyhJ8lVyxZg==
+2019-09-21 12:08:14:541
+ss1ClientRead:{requestid:"55409110.f120820670",timestamp:"120820670",bidnumber:"55409110",checkcode:"d3174f695f560c96ddd143ad43df12e2",version:"1.0",request:{token:"1423850325",referenceId:"0.8569908561185002"}}
+2019-09-21 12:08:14:542
+{referenceId:0.8569908561185002}
+2019-09-21 12:08:14:546
+BAcrRSd13DWmNeIqRTmQutesu7+Suv5cC/RpeKTDI59QgCZYm1QQwY7EDN+7UiEs
+2019-09-21 12:18:56:114
+ss1ClientRead:ClKTzfStPL78nRW4/TO9q7mclfgugH0NfbYSQcFalouEfznum/Dy3PLCOL7WYmSCRqARs87TPMdqIpjgptMT/pVS4dYKG5bTec4tEPuuY+BcTN1pPha2oCLxwBW4deq1GalwEKz3HXp09tMW0Q6ow/Xtz0axRMpn+H6Gf4PyBibR2Rftchrpf7ErwG4WxDZ79we/SqZyeR+5H7FKp6btrdW6oQW9kHCLsWocX7ZsnsvPP9V/tR0XoQ==
+2019-09-21 12:18:56:116
+ss1ClientRead:{requestid:"55409110.f121902255",timestamp:"121902255",bidnumber:"55409110",checkcode:"37ae47b026c54eb394ae144b80215045",version:"1.0"}
+2019-09-21 12:18:56:116
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921121856"}
+2019-09-21 12:19:00:867
+ss1ClientRead:bjwd2DcRXpDwRs+lZ7LDtiD4gsDA/5Hu8ZJW/4/s4j0fqKEvdFdUK7jaeFy9zS3G2sSYIipfDK6uT6nmsBxQtvvYXAFKeDhy7RzqLg+Kh1qFZbcEilUufHaqo+PHmoy0JBx8JsA2qIC4fTlyEZujSdPTox48SZ/x/jkaKBF9EpexuWPdxJeY2vLmF76P/vwC4GuA4EOe0vM32/ExSYo7ky7HgLKn5tyHxQZa7vn/XhOzhTA/yr5jH2lBwMP7dpHymte7u8OjoMiFOobla3zP035r7r2/pvICN/5x4w==
+2019-09-21 12:19:00:872
+ss1ClientRead:{requestid:"55409110.f121907012",timestamp:"121907012",bidnumber:"55409110",checkcode:"d792bd316ffe94066351d9173f46374c",version:"1.0",request:{bidamount:94200}}
+2019-09-21 12:19:00:873
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f121907012","servertime":"20190921121900"}
+2019-09-21 12:19:00:873
+xFWa0RkrJQ6YLUGZ8qRvSQoOiEwn0kiY6QE65sJ34TBJP/R2cGJW9xp60kNHBdZYhP2G8a0pQUuzcl4BjReNeqGigwst5i6de/3UTLjHxixXDnErToEKHJ1PpxbrPSQ+byscDXbAsUiQOv1TWylskb29Y6/e8ZMTCgnGtaLARPA0ammHvhinh7DegbLDN9WzeKWYOwpZ7R4CuqqkbgM/H8pp2FwbX4QAqrTsaGrM7ee0Q7AO8lzNm1jSaOfc/edQ/I7353SRMevFgG0igytQ2ExrkJOZ8bh9tzHrDGhc1W8dtDsDckPVPbXQiYMZTr40d/9o0mE2hUb2ADySns5OTZH+C2FST9AOi0pwnYJM/fnWD9D8eIK6it2L4br+h5sSF5EsbMJTSCLrK0yrYwy+C5JNQcnIzKy5/wlHlVVQA+dQy8JXyWcWYw==
+2019-09-21 12:19:01:174
+ss1ClientRead:l7hHpZaCNOv+icWXr24saSIpL9WgV2bzIm6K8qtPMhs1OzB7JoatbkEtwe9LDfGWfxZsT7Yp2zi89QcZO+yl504fcZVxXkB+TXhdqsQcfBKCRvz69kabvafZXapEg+fbHBZF11JYwaDlUUxD/sqgq6QGKOOm2p5b/d7DmjETsirkYqCDiyHrvVHDJnBYcsOdFRQr+s3WkwgY762pwm/lFivzSgfCXbiPEI4FNRUHfRbtHshY88nUbrLf4Uu98VNhosSOA9PrrHs9fRbEF2q7I6Yjizx79HPXiFUAiTd2/jKTSV9nKsX+THRgITGYXCVJVUWHCfG59P9Bgribde31GJ93CHcLLQYrTt1hDA==
+2019-09-21 12:19:01:176
+ss1ClientRead:{requestid:"55409110.f121907319",timestamp:"121907319",bidnumber:"55409110",checkcode:"78697cfebeec6e469d0cbe2b7a863645",version:"1.0",request:{token:"1423850325",referenceId:"0.3331948216073215"}}
+2019-09-21 12:19:01:176
+{referenceId:0.3331948216073215}
+2019-09-21 12:19:01:191
+L48GZKBSYzhqVm49KHWnY2TR2/cUiUeHgVqB8EtnJveom3mXpmeSk6YX1VcNj5Cg
+2019-09-21 12:22:15:037
+ss1ClientRead:rqbV98Y5xZJ88TtU1e6vL8z1Mrsf+UjIwwS7hJXC8wF7Fg3n6aWHVsTTy0wjM5Xq7N2JDheJ9SFZeFdvXlLly1so/xiw7UH7CmAhRO/MWaBhCGJoBqcNJCnrGwsJRDbUQ3nUZrh8Ug3tWJYXAkjccfKYon9qtC/T7kxDckV/R49yB0NfA2J2M5qsOtJMIvpK1GwMCT+0+TL39hr2gu0ynPViMslV0tVQGEc2KE317hCYlS3vUS2QHOIBghjFscBetaqeGmT0U3gi9Yl9EDbkDVlrpi18qhEJpNFvww==
+2019-09-21 12:22:15:042
+ss1ClientRead:{requestid:"55409110.f122221185",timestamp:"122221185",bidnumber:"55409110",checkcode:"8a6f0a4ced83a35a8c44b2c616b0990f",version:"1.0",request:{bidamount:94200}}
+2019-09-21 12:22:15:046
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f122221185","servertime":"20190921122215"}
+2019-09-21 12:22:15:052
+ww8CX8VAj/0T7f6i8eMCsH0qDK4S4GjiaRvPW8oPjSxQjvoSh5aw1guA4nfcdtxToY6b09nuyny3tECLyg7X4Ko8JiMzI5qmR+J21n+IqEzy7+mVAkcMxnd3i4y7j/wrYk0Uzd1611SjKRNErynybpBIf9Go/lPm2jNyS3QRTUDLgM7TJs7OEzj5kr8hJqtbBkReCb/wgHtFsdjJyoNEflYr98MUCxibAhz1Zp0SJiCI7xMlCfA3RGn1BrKIK8x3upzCY9nHpIaxFlZW1qSE9H2MyNZ1cRpehkMaOnI7D67MXvhAb3uV/A9E1ODcSduhaPoFTBa0P8D36ZOxbJLAmNH+fgz2z4ItwryKuZYCtXWV+82aGSbEXsj45Lqz7g7ohTypIsam06nmpYGEy5N1DG8Dru43Li5asOLytVM9eNg9nN+MrepVNg==
+2019-09-21 12:22:15:352
+ss1ClientRead:XKtStHtndK58YORVZG/Hql4ylWs8lwoX5l/blFA2NcA7L7tkTAmZ5nLcnvQj7SCQOuOUccCYqIAUNoRMVMm+dXP3cPzDeuKghYPEcr/A2fhNTF3ububOD8Be5MIxMG94QOdzTcjwq4ZnjwwqTgLEHeuoBL9RiaVqVBuFDzy0i9jAYyaUaTV4Z4GQ6OtoVkc2A2/5fuMPSm+90omL5U7afo8OJ/LJ8Qs/HJ+tPKP/TtMDIeBGbTM/reicRmOGcsIvICeV/mTbNNpnFpRLHSxD65KLLd8XDDhg+TWNqHzHpAjC/25bLivCUsic5GrsDERK2Pql7BZGHOOSCLVVql67orvmTUcmu4WjmoKgTw==
+2019-09-21 12:22:15:357
+ss1ClientRead:{requestid:"55409110.f122221498",timestamp:"122221498",bidnumber:"55409110",checkcode:"539d24c760eabc1011eb246080216a7f",version:"1.0",request:{token:"1423850325",referenceId:"0.08381291013211012"}}
+2019-09-21 12:22:29:218
+{referenceId:0.08381291013211012}
+2019-09-21 12:22:35:801
+sTvAHMtYEbuZfYLja0WgMAVYvwxJp98nMmo1cdrV24jFbAeeZwCGYZjsW3AwliYG
+2019-09-21 12:23:22:254
+ss1ClientRead:TpCoRcqRY7HlprLe7ukNd/T+JGJTUzMd71Wbad83lEOxYN2mhRKxb4OrGPcuGpFpYjtfrncbBqytwhn9fHbLC0DN4H/yDkA7KfjK+bCT7nOGaxrRsDEFpO7fMyjZv8InzVTqXS8f6Oer4hRlOUJ0JnfT/pAgGjYtNVeLRHKtHs+ofcVkxG7a/jpG0tLYHQE41xQqv/cxDo9WhJBt30UygmeBtnZk+J1YLpWW6seJKAB/R+34aPiNTw==
+2019-09-21 12:23:22:258
+ss1ClientRead:{requestid:"55409110.f122231771",timestamp:"122231771",bidnumber:"55409110",checkcode:"ff5ec9f58bf5423d5cef175da12a8ce7",version:"1.0"}
+2019-09-21 12:23:22:261
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921122322"}
+2019-09-21 12:30:19:958
+ss1ClientRead:2/zgxHvtUzGW1QTgvOKrSnD4mJiFROtRZevx9APQZ9vl9UN6016330/PtQpC+tmF4X+anwHBX3Qz23RHD8ZT7xWYjaVCm51dO0vgByJidGRXTaWcusJdkkpT2UuwsPf2KrRalEzluYfG7zrFOLl4+Z49UHesBcD3Z6sx3rvmr80AcEYwBd497/2TW7nXohAUnXCCtxr48AUvkbi+MiFW1KaKaJwI2Tnk+7m+4xwAkjcfqkqM6C/OXA==
+2019-09-21 12:30:19:969
+ss1ClientRead:{requestid:"55409110.f123026103",timestamp:"123026103",bidnumber:"55409110",checkcode:"e3ebde50a9a3184c2c73e2c012e21459",version:"1.0"}
+2019-09-21 12:30:19:969
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123019"}
+2019-09-21 12:30:24:166
+ss1ClientRead:qpgMw43vfERQ5Cu/XYWvnCEDjy+8GE21XTkK2/MRNy67//0b/3xRUJ+jyuEQs3wnEN1fgTKQ6PGrA/3WTjQSKC9RJUNu8NCmhf+FFCfymzy63PZGpS8YG95zPO5ry1uNru4HA1sAJyDkcL72UXSRo7PNxFZFVZWFu/1k1b8iBHtDXPQCE0fh3yUPIEeXxhZw2JzUP6kb6vkS671mJbEjdpJhcdv1Iwou4PliSvXUng84fpYRe747Kqqq7M0Cz26BlSHwiIMnvXelh+hIKMa+PiWITPsEf28BbIDQzw==
+2019-09-21 12:30:24:170
+ss1ClientRead:{requestid:"55409110.f123030321",timestamp:"123030321",bidnumber:"55409110",checkcode:"5e5fffcc333ca71d5ea1e4468860b631",version:"1.0",request:{bidamount:90500}}
+2019-09-21 12:30:24:171
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f123030321","servertime":"20190921123024"}
+2019-09-21 12:30:24:175
+CDgYrtDhsFenk8t5NLRKdYdQFlAw+BNdyb5FNcuC94dr0E8rl0JysNcPpfvZawI8fUetuURCHQ2D0cwxy4gJKrz1fgGJiyiYCBqgC/OchFVLxsS4+IF5L1dp74RfAPGybw46iPBrtouu3+v5FcdZQwsgFyM40OOYNK4TArRticK4pkO2WAvrvU1g1QbePqakIXLbq7loFDfPmAGN3ASeN0HbjiVVglLHquP93cEBDgOzPWc/5Tilayet/vwFIiPHtMLwzSQDnUskG/8UW8vJQ14DZB8Tr9L11AGArmpT0rQssmRbMdlhNjEn1117Q3vTnKFY0TWx9BnGOS2zJUyIXlCRfr8fqQuZXy6t61MjjcxJWUqMamjckbS55MuSzzxc/nD5wD87MJa/kg3L6M6wjYgOXxu5lz+y3Gyo0E+sZ/3ZWcrDwHhfqw==
+2019-09-21 12:30:24:466
+ss1ClientRead:qPssY8epMU2PtlgrjfOGZ4fdsKpHokx6pf9lPYbuGBsbtjo97Yvu0M33ttIIAoiENYSM/+hODcMlErr10DlaVkSHaOGFgEVOGuKGQlUoJo2KlA6/VvLsSBYzsC95oVACWesA4q8Ho7OE6E0xzKkcowuhXoq4cg9pD/xH+Dv2tOfyvDUe/nMi9Ya8REcVeWs7srTInWG9TwK7o4D4f+qvft0prw9ZrV7vucJsYST3NzOWXDt+XGZN1uJkDte6/Ra4gzdKfRzBg6HJhTBqKDrdiCRTBYLTs3N9otMtQsqv3frzeA5/otyqZey9iuByS7n3OeUeHWHD7bn9d7SgdGXpcvuwGDug+Hk/0LD4XA==
+2019-09-21 12:30:24:469
+ss1ClientRead:{requestid:"55409110.f123030621",timestamp:"123030621",bidnumber:"55409110",checkcode:"e32d4388b04369ac29f101bac8b295bc",version:"1.0",request:{token:"1423850325",referenceId:"0.08076621918007731"}}
+2019-09-21 12:30:47:776
+{"referenceId":"0.08076621918007731"}
+2019-09-21 12:30:49:354
+3PHW3HC+xAxg8QlFOYrRH9D47Xq5B3/N1lIanSOz/sbyyWQP2gOis8wryvC58lkmzoWiYJYY02M=
+2019-09-21 12:30:57:654
+ss1ClientRead:0Zee2MGeEh8pqT4qRRfvYiphOEigoWEGddQW8zuhY4ysw8vw2bL+rufkmD9Ph49GPVqpI2e5HbcVLZIx0sKyVBZN5qyi0uQ2ioQxPIoVp0pLJ0jbo+WyLvR5YB4k5FZZzb9+6KV5m9X8KGQn33r2IoZBpIsiO6b74euDugMzTccurv26G4FWwiPO1buFjO7IIG6xBgh8VAzgznXpi5AlDJ4Q/hUXmOMKLG14ucosp77ORoJ+Fsai1A==
+2019-09-21 12:30:57:658
+ss1ClientRead:{requestid:"55409110.f123042059",timestamp:"123042059",bidnumber:"55409110",checkcode:"464c1a3c7931f1e1ebf7d2db6cf5d145",version:"1.0"}
+2019-09-21 12:30:57:659
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123057"}
+2019-09-21 12:31:13:929
+ss1ClientRead:9wEX85uysF5XU7qEt+fWpkbFcvgefPnyp6sl42jyCc5Wh4mMXoL6tQoeOfykOGITNmBFdMnrDtGYucb4g7ACwWfXqT69JiL75TqMHfAQLekAg+D9RLdv9c87SFwyf3SsgNo4GSR+X0u7BskNwaviBVIf1PIDEAxaM2hyKmePZOjd7WVwl6gzm6VfaO1224DLhVI8Y/hVEhxbImziPdUiPyLEPtte39qavTjOhxOJ8s4epGxv6N8/P1WgquMk2VnJ3z8MN7nyWk5tNERhW/YiNz4UBzQqU+N3zsWKCg==
+2019-09-21 12:31:13:933
+ss1ClientRead:{requestid:"55409110.f123120086",timestamp:"123120086",bidnumber:"55409110",checkcode:"77714a90981ac24151b12ba73d47f0a4",version:"1.0",request:{bidamount:90500}}
+2019-09-21 12:31:13:934
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f123120086","servertime":"20190921123113"}
+2019-09-21 12:31:13:938
+2KWzwvgHzRA8cyJ4vFik+FkzrIn9847fXnGmO9F7adE15Q8mJ5xlxswsvkgGLvu+OwUYuwwr+D9GViX6Aa/GU33V3VYPRkUprVD4/BmBp3rWCfjN5D96dsdTwde+rb5xfT4aJiIF2lMMiX8WSit6h+E5vQApscexI48FHmiMu03fuoLC7NABEi1nTxcYyuG1snbHuiAG8uSo3Zu04Y3DMIPGvb7lWUA+tKyWzkVcgwxl+eNZgMwvSnmzrRMJQP8yreRIWcmWMFH+w4l5dLS8JC1T/3Mwhf1TKrhpgWLc0/h1er1dv3c/aBjO+0fpg66ifAbSyEIgpHl0FMuSL+f1+NaM5VEJwPqxN7BkfXQdn19Si9r+CcydTWv/E+tauzmkxM+QMaZvj/HyyW1VaDY8iR3Km8pvLHTa5Dp+iBngZZwalvK1ZwEWNQ==
+2019-09-21 12:31:14:264
+ss1ClientRead:QMrGf4P+qf40jIV0Vo1lyqNC/1wb98epCADR/vpbhzS4uxb/dL9aNzpTEHWPXuLn9xlSj4gCC05vUjLtwIdrRUThOgzf9ZgpUy/PBhj6e4oYtQ80bimGloMEhCX+4Z96K3uiPZsTBA9OqtKPJRZJuHozWBALqQTd4jCV53BjbT2SiicTvksVWa6UwmbIF7o/WCeVAxV4pk/kwlbT0vKZ43thBrxHcak+7CJT2dnWlgQ+OdFf1WElLu0d4len6Z+/5Guo8GuOavxazNoE5Ph+iDnkmxTV3Htba8YnAC3wYp6r0e735mLrParOyA+Wjps2ygJ7uVEWYfyFRKAOTvQsatG1Vi8MJHzyqImZbg==
+2019-09-21 12:31:14:270
+ss1ClientRead:{requestid:"55409110.f123120419",timestamp:"123120419",bidnumber:"55409110",checkcode:"773eb24ae67d49f57dcc994cd9ea5197",version:"1.0",request:{token:"1423850325",referenceId:"0.9688424351625144"}}
+2019-09-21 12:31:14:271
+{"referenceId":"0.9688424351625144"}
+2019-09-21 12:31:14:275
+OcKYrBexcdUweElZm8FPacHf5tmtg0L7cAW2XYf9itCg/L56xAz6rBvrQKJqI67umIEcQA==
+2019-09-21 12:31:30:891
+ss1ClientRead:vw20joVbdDxDBuproANpxUePANP6GezoaGwBht789HX1UhoBdUCg4aTsKznIb9xWVqQYFYnKPSO120PgGL7eNs5ccstggL/duUz64fjiOXCKufLPxJaePDUJT628svyaJ9z7R3VR1lJOLB8zm5dmZQcf8nEg9+vooIXfzjARcavqOGFZJtYbAocSCRQ04oLnpgBekbkO7d1auIEZNvqTXgxg7VvvXcj1cvX3z37icHt/AR1g2oLLVw==
+2019-09-21 12:31:30:895
+ss1ClientRead:{requestid:"55409110.f123132192",timestamp:"123132192",bidnumber:"55409110",checkcode:"38b0034095de67ee2d1505454aaf077f",version:"1.0"}
+2019-09-21 12:31:30:896
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123130"}
+2019-09-21 12:33:53:111
+ss1ClientRead:psa+bRcchcg/3hKNZprF916OWHPI/pXkdXXOzPpX7+rtupa60TUy/pzukS3EvblDbkkGEKL9x3Rd+4aXdAZoHFNuDh4ZOUm4ZuVRtH8Bj32EnxvWj+W5V8cSf6XdoUsahz8Rc3C1d1rpSuTuv4IBJZGbFPKVyshRYfZNLI6S4jMwQMaZj/24xgNdpy2ISqcbppt7SOEN9vD7b5yPPhfFJ9b42hKuJo0p6/chcHTpUYCQ5HB4jGbCCw==
+2019-09-21 12:33:53:296
+ss1ClientRead:{requestid:"55409110.f123359270",timestamp:"123359270",bidnumber:"55409110",checkcode:"624ccdd26bb7107b185eb0828952e375",version:"1.0"}
+2019-09-21 12:33:53:300
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123353"}
+2019-09-21 12:33:58:697
+ss1ClientRead:gpFGGgH7oROJ/LmKGT96PNXBBufYLHS8hLdoDuAQRvo69VJKepvs250AtzhXMbW8MeLrQxxQaIpAY3MoQ79d3fe6EzT621mZxSulB8TgSeAQARjexq3W7ryBSDIpHEMdRR34hBDdwfJ8kHilIlI7Qe43ZCNwq+ufc7aVpoqQXdD0P8D6jtFGg3h57+gZKBKS74oE84EYMktr+WwHhH6/6wUEitlz4RuBlXz8gU6VaChcfdrznkHSG00ApRYfYbmLuAjRuevniOJOenAX7s+JFR3Bvroj4FEG+90DhA==
+2019-09-21 12:33:58:701
+ss1ClientRead:{requestid:"55409110.f123404858",timestamp:"123404858",bidnumber:"55409110",checkcode:"3f290e9d2011b7b8349fb90f426c9c69",version:"1.0",request:{bidamount:94100}}
+2019-09-21 12:33:58:707
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f123404858","servertime":"20190921123358"}
+2019-09-21 12:33:58:717
+3UGXnLNOCifXXHrwTdKaHkyA9QJ64AphHGbCG1np2gtSsE3T6E8xxX7syNTDb1waXPAC8Z2fh1J2jqba4QOjnNeIosrml2k27PxAJK6JUH/M+S6My//dsejIjB5MqAVmodwhwG7s5BRMykrq6S4uQphIkifgIDlIRHxWkOs/lk7wGsjRxFrVQTrnszRJvyCa8XpbMSkIDdziDELg7tOLA8voCy2iJxsudn9MtmBdgz96Nn0dwNsE24FbrvNRcCG24pGO/8k94o6PIeXQBdvR0mIvyJdxOckOef0yGcIFOK5Hiu5oAMups/4qnOXMwCYw3l4kt8Pc+YY81tIkv2mOERCX63Akeq6AWjQgCrl5czPIJ9MdiPCtwmaVxi2ktUpPfys+k2G9OG0Cwp0Mu35ijtxOpv1H3uwYMPvMoRUsE/ykzoyqbZRkLQ==
+2019-09-21 12:33:59:040
+ss1ClientRead:myczIjl4UVx+4G2uHo8Ival+6wZXdshmNRMYUNDWSwjDfb4guw4gRtkWTasQDeuRBiQDSnEyLL366RFNn9JibHE+P2ZSRNHm9lH0RVE2s0NoJ14uMhUdeNvFzbluSLPQ5egAmsN3JBlCloKDnXMDZtwZUeqJ7tyUaomaQI6MfKSe9P/Tic/YV7X1PwBPGRr6yDWtqxShZcAQzlTo9kRSBYmR29nJbDaQkYUTigvne2bSrGRtNv5gnK4M3nddfy1GLzmhA++RLaX2t0MjVnZDfcvD7Be9UDKXX/0itaQFsxjVhfxkcl1XYVa5pwa36dEDwE/NGgQoKCW+df6ku3c/sCIDOOhcqIbwU4BuXA==
+2019-09-21 12:33:59:045
+ss1ClientRead:{requestid:"55409110.f123405197",timestamp:"123405197",bidnumber:"55409110",checkcode:"d0b8767ea85ffbe769dc9ea7de3d8b3b",version:"1.0",request:{token:"1423850325",referenceId:"0.6169861294329166"}}
+2019-09-21 12:33:59:053
+{"referenceId":"0.6169861294329166"}
+2019-09-21 12:33:59:060
+dRbbKFF38apdNHh1YarvIjjkLwy3m0awaAyVUIo+KkNxg0MhC3MYpExpti+tmH1iP60REg==
+2019-09-21 12:37:03:757
+ss1ClientRead:XlVtwajCBZPBgjuuocj3CJTuhCgIpjx3Xv1L5Bz3rflmoVDeMeOiGbzpYQtvLN1ourK0BWB0ARivjBBj2xCe+lZ1hJPIu+jGUFsTkBg7H/u+q38ZMds22Rbu2gtGhA6mRiVFZVRF0OmM52NRKb5pVeKr0uex7nLvrCN03TmiP4WTceWtSo3LJ9WEmvePypXOJHfRMDvxpGiItiJZmSfqU39q8GVvGBp0BnpRGc74N5Lb3M6yzaI6dw==
+2019-09-21 12:37:03:942
+ss1ClientRead:{requestid:"55409110.f123709914",timestamp:"123709914",bidnumber:"55409110",checkcode:"3a84649d6b958f64530ade66c0f2c5b3",version:"1.0"}
+2019-09-21 12:37:03:944
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123703"}
+2019-09-21 12:37:09:584
+ss1ClientRead:WrS0vZRb0DmIzMS3Oky5A8SDxgNs8stIyyGQJT/rTKA79n2LZDDOwSbe66FzGgyRFAHp0R2FsiWBW2oCCWsqlGHon5oMHlC4N8cN28rGaToCJ86EazpfYZuv4DxThi33LsRF81A4SRTt1R3HMK3c76fdNNkLaiSGuXlgwujhSLEcg1DDXbOKieOk6tdYS/MN7PcZcwLy+nXaX+xxC9C0AGjOraGisxyWoV2oyx7MVoxXQU20JL1rTBpHTYpypb1pdYaiwt4IjEAKkBHYVBu9yV/as1j6GSFmCUiScA==
+2019-09-21 12:37:09:591
+ss1ClientRead:{requestid:"55409110.f123715746",timestamp:"123715746",bidnumber:"55409110",checkcode:"823fde496238c568306563feabb4f9af",version:"1.0",request:{bidamount:89100}}
+2019-09-21 12:37:09:598
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f123715746","servertime":"20190921123709"}
+2019-09-21 12:37:09:611
+8IBHukcY5ngoOst5UhkmssDvfd/37INaKiuhmRQxuIAcBhCeAoKkaqbZ1cgda962zOu5nw9HbAdOK1I3SYLoNfVs2rzTDxV0Zn2erMHXiCVHhOTA/7zNxGqeu/MtfcH+f6DfS91jganX1bMEXjnulODtFGD7cKxGqbBVc+2yjVJXyCn6xiDKhh8jevXKqhwDEfFHfLjMI48vryRzK9c01XKuaPZM8fX1a+nWzrCVRLaHHNWhQ0DD8iIit02LkCi9Dzt/URLC6AXSr6+lv1mx6ZAN4WY0R5W6RCFA5mxub4zDJ8GyNslC09eY0FtZAm23qk7x17wkPElAngqq/bPtoUT6RrGj+nEzMKeTg7oTbsHmgOPr+LLieUHELxGf8ocKF/YRhmC6Li3s5J6lACrjuUxP8uRslc6xY4YJrF2go1hDa6UKShuO/w==
+2019-09-21 12:37:09:884
+ss1ClientRead:XHdPi2nXYe96oKHhm/hG375y3KHnp5WSYlpsMNK3gCBGmgo/WnFvFrol9vL2QbKj7pBXwQhKg62QBdwug2CZildNMmqxfDAx7gEvYvV67ciFgFlCFYF3fIiMFmc5zzI3mlmjOr3Nv8CgkeStme0Q83N/jwUMfVHnoZKW6FRZbR3c50ssgvVcnODNBikIZTohkx7sJ0ucVz/UB53/p6117eXEJo2qTzpGKqElnt8ohwxyxYObPA8Bfjs369GRdhMq9l1Pb2c3piz0YqphZAZEY9LN4KiiDV0p/yiGF+UELwubJ4iL++VQr9f2koNv67i9NVGKpV5fcUFC2Al1syq0YIffJ3ndjlzUpDvjKA==
+2019-09-21 12:37:09:889
+ss1ClientRead:{requestid:"55409110.f123716049",timestamp:"123716049",bidnumber:"55409110",checkcode:"5057d45dcb938697df9271d79a0f28b9",version:"1.0",request:{token:"1423850325",referenceId:"0.9135285830125213"}}
+2019-09-21 12:37:09:897
+{"referenceId":"0.9135285830125213"}
+2019-09-21 12:37:09:902
+4p+8Ir6NGk8BTISsewtvxvV25SBWOz68G7KcPvp7Y4lzZA5SCFLC1J7j97t2pHl8baDhSQ==
+2019-09-21 12:37:35:249
+ss1ClientRead:4mZBfgQbMgwpfIx0Ol9dj1GxlPSDcjD7HtC54zCgl8Ac+hp7Kmch0BjumxP9uvQReoDBE2ZMl0k0GfhVJqdCthshZY+M3268Wey5sD6R72+J7LG2qTk3kUMNYHQ7zgqBr5AE5KxHNQlvLXk0X9a+wz2QB42SBNI83P6BjAHf+3PgJ1xhD3Xu0LLmFK2NKIK8NVArma8FJDlRf1Y9zpSC9dpnFtE2cm6bccyss4EzOZQPgS7GsI1uYLvDOr5esHNG3WpzUehgXW8/Oom6XwLuMM7Y3lyvOU2i95mBhGnhov+vfxjAJRFqkoThbpYJSCaH4d8XpKoIgE8=
+2019-09-21 12:37:35:255
+ss1ClientRead:{requestid:"55409110.f123725160",timestamp:"123725160",bidnumber:"55409110",checkcode:"0fd997edd8406cc2c3458815874c2efb",version:"1.0",request:{bidamount:"89100",imagenumber:"7701"}}
+2019-09-21 12:37:35:298
+ss1ClientRead:UgFFfOdmtopiwRPQ2xstJFZNlx/uIbeLAgHFUDi9nhjlQ6R/og3XN4LQTyHo2VQreOQdPxIZwiS69whYWrOmyDPfLdW/SsLZuU3KUYuXqc91UlCapUhblbMcHSYrP+cn89HLBZRLFS2ID3TtHVlz0Wx2klB6Iu4LqPynGG+i59FfCV2Cra/0aGa+feL/uvGzT5kYUr+iol5BhDy+eOf/NO4I5Tk1KkmsmvJLWYwwYAzv6yAs2hqgRA==
+2019-09-21 12:37:35:301
+ss1ClientRead:{requestid:"55409110.f123725845",timestamp:"123725845",bidnumber:"55409110",checkcode:"14a049be212e40f30cd98762f7816eb6",version:"1.0"}
+2019-09-21 12:37:35:307
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123735"}
+2019-09-21 12:38:23:313
+ss1ClientRead:svv68+8BVbXTIWK1C2ARkNnCsE1c2xkE5d6TiTC2mMBWbSxQSzpiRG9lZlF/6bSs2PLXfhcmIB16qJXdQ5jcbt3Gg6rmcBzIh0clKGlrtuaOapP7eVk2hkAbWF2EEvR17cVrD0+ski2l4wZwK1Rk36WKfvY0QbIjzM7AxMr5C+fh6kSCUBF87Pv740SnWya5Y8o9vI44bjNU5x8l1HOvB6jaN804isro3OgIJab+LGec+af64Z6x6KGKG5K71HHqxWol3PjoZ+tltXes9KhWkup1TPrMC1s9AstrTw==
+2019-09-21 12:38:23:320
+ss1ClientRead:{requestid:"55409110.f123829481",timestamp:"123829481",bidnumber:"55409110",checkcode:"b12983b180ffc942c931a0da79965d45",version:"1.0",request:{bidamount:89100}}
+2019-09-21 12:38:23:331
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f123829481","servertime":"20190921123823"}
+2019-09-21 12:38:23:341
+GKyBBKU46a98hUoA9AIBrC84jURqKkGm/4xyiAMHYzipw77n2lxX1xHARQkD2K+5VumoAup0RUi+ICAoq2KZFJLaGTOuGkRV6IBncU8mx6jWjBKWLabM7QEyRtP3SliZrPSyi2ZJophhrHwsn3Y1Viqzof7jZOCsLrLe2ECLpCGUptPLhWvkZF2ASZAMJRSeQPOH0tQgy1b3Z3QCQ2Lw1uHdoIj1AsMhAOVmWUC102SU/TrYXkXYvTu3Lr7lRL6wEulgavE2XSVOsROnYuQ/m9iQrMkxUaYRmjSG1Fvv201v/ymV4rIS15IfW3ktrzpWCMQxz9yz/42BU/vo1YPYrtG/zlwjlox0E1ptDOR3wm32RsTu6H8fauQFHYxXHvNrRIUGul2uWRwN2JxcPnevNqi8PR8WYtiNI65Ybe0Bojw9YUS0fOcLDw==
+2019-09-21 12:38:23:634
+ss1ClientRead:jSXdRLtrSNl10QkW4jKxQyK/lPeZipaFlCvARqgpn4B0A9Ubl9/uN/olx9/nxKqhHQtrmQlxvRl1eOWm5E4Ve3vsnafB/980r2q/gMhvIP6+qlYRgF8WwO8tU/IX9UGJiJ6IgCxG13C9b2orVlLfKa2xJZJoDINrdm0zbtAeyAS5i2W6kUu0Kq84W3Q8F9VtN6Vt75G0LHdFI9eRmyU2ma8vt7UQnDZeJbogWEciD5Mp+AGXMiNTZQM8IKu2UHPWNfskCItnUeWuE4Z4FSBLtXQNHGd3NVisHqRkCBV+0zrb5jDBQBmKZs2qyIxMoJvq4BL6ncNA3X2VQXwbzHOd3wriPCdeJVoDwUd77g==
+2019-09-21 12:38:23:637
+ss1ClientRead:{requestid:"55409110.f123829799",timestamp:"123829799",bidnumber:"55409110",checkcode:"650baa36007fe321e54045f0d08917bc",version:"1.0",request:{token:"1423850325",referenceId:"0.2316565988585353"}}
+2019-09-21 12:38:23:651
+{"referenceId":"0.2316565988585353"}
+2019-09-21 12:38:23:658
+Dz3mg4ET9aIN2eazPM8w7ysuR+J8xK9rUPjSsMF9SPftFSGmBD2D/8d4xrUzOpHcA4FOig==
+2019-09-21 12:38:47:326
+ss1ClientRead:mff6SQcDMMZYzpP6W74zDQZNQDWyO+uhnGmde8SPSZLrIukxlemw+lYnnsjCeeugMYGToOYvaDcTLDbnrdTWMxfmGiLzeRdvTvSYLUF2ngKcqCZ7pZQAbBZfCu7GD0dKrsfBGeqxfSVM3GvKWT/lWWa8yEnYz+m9vTmBI8a4aGx9rPP6G9svPRtkJ0OgVAm4Gv2P9sC3riO7z1dQ60hQza5J1SLs5/bg7pnDqOvsi+1vqz3KwAmZyVPfTEYp4RkuP5rVLoStBIkwhQFUNZ8Twt9/kiWm9zcFO4n5VN+TdDr4R9I56rYby1QP7OYqdlSkBtyPCziM1c0=
+2019-09-21 12:38:47:332
+ss1ClientRead:{requestid:"55409110.f123834400",timestamp:"123834400",bidnumber:"55409110",checkcode:"00835793956563b487ec0f4a666e22fe",version:"1.0",request:{bidamount:"89100",imagenumber:"7701"}}
+2019-09-21 12:38:47:379
+ss1ClientRead:yCvAGX73RADUosyLWY2SE6V0r+u4/Pns3uZYNfCPer5cHGYXcduS0jFamJD0nwQQR4DKJNA1AQ36ToDa0JFC8Xob1bYBLu7uZcPWO+HNQX1DfD/22qq1bSrZec8hjQflUU5EcgtF656pNfuTbDhbxADS3zK9JIPogCjTG90I6eftG5HF8CWnVX3S6J8SzJCQjFuXdaZnbS/ZeBVceq5Fi+0qR84EEYHdMOpy7G7eXl+8/cTjqVN5HQ==
+2019-09-21 12:38:47:383
+ss1ClientRead:{requestid:"55409110.f123840061",timestamp:"123840061",bidnumber:"55409110",checkcode:"9aa10995899590a87613b1fd5f50425b",version:"1.0"}
+2019-09-21 12:38:47:392
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123847"}
+2019-09-21 12:39:32:689
+ss1ClientRead:GgCKhHDE6bPTnSjGpfpvjtXrc7zX++s8TtxaCNxuumlumv58HSaRzHUBgmmkQzzaNItANo4ZKfLkTOyJg+KUmsRSQJmAdam+FNbR0R/BUjrAj+5Amp9ywKbk0dK8QXZ+FitLjazjS+n/39zvJA0jbonYlNR4AloXTaAPhrWo2SZGlJDTCeuKWVz0MeGHL2/oY5Jw4VUm1xOhqmsCusBs5/avjzwUcodZN5ltk06++tn5qG/vNi69ltpoALIFfSdIFjV/8xzYbjj7gskHs4lrUPzWcHCODCjhX/iCIQ==
+2019-09-21 12:39:32:693
+ss1ClientRead:{requestid:"55409110.f123938858",timestamp:"123938858",bidnumber:"55409110",checkcode:"41fa7eef1a3d27773b462612f1fb8539",version:"1.0",request:{bidamount:89100}}
+2019-09-21 12:39:32:708
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f123938858","servertime":"20190921123932"}
+2019-09-21 12:39:32:721
+i5sUWxZONcnCxChdpYKPhidmvTGx6XYWnD2b4cAc2ybtXBAFJ9ih3SbrRMrOny2YTRVz8RxtdHOiSih+xbooGEFtMMi+fz2DyymkLL2c1K+ENYmClEAY3A0QRd1unTUqkKVowPDaN+YChnzZg75LJhfq9xZV9Ln7BFkWzAyf/QwIhoKAplHGxWXKWe3L1Yjy6yaYaosNs0Bq6qyHIhSZ6808E/Gl8Gji4BJVSNrcq34BL3IMbw38QYoUjY/ir0Fj0bkIpjVt2xtNanFWxogWQRm61+aXQIdc4iTxEYv5n6qJ1PoRC9q1ruJ0f+iY8s044+KLrWWETuAJlJMCYeJILYkhF6T/w3gTwFrLXGfVPzHddx3xp9sfKIf9D+v/hyfpLXl+dyftKVWclJqlDvrHvoPN1a8d4fQVsehJccIo0n0zWdONNFlqTQ==
+2019-09-21 12:39:33:000
+ss1ClientRead:uOSAAEv0gs2YnJUrW0Gt22YKvK1+er9j99Yvm5YTK1eiyHJ1F7UqCDnrQYESLoeeJWa5xK09ZDnpnOM471Pyo139+/+a+A8NoYQ8oxI+YQCzg7zLgXoZRia3IdZPRjpzgFsoZDXSPR51OUtMGVbEyrpRs8QhyYlXZ6YEQuLmJDuaLhrH1MyT5Dmt0h8Y7DTkWR8M9WxspESFCt6riCRCad6ilqwqdgJSGLLi/etvJVzCcXOvs3t7roACs1Ilc94hNkUvIXqQ6vM+tsqyPX0hz8R02lq9YwGGhHmR4APsLN7+98KjCIXU9h7qX+XHhdhUID3isKwUDPoSd3zLmDK1aN71Ikxy3lVt4Rygjw==
+2019-09-21 12:39:33:005
+ss1ClientRead:{requestid:"55409110.f123939168",timestamp:"123939168",bidnumber:"55409110",checkcode:"09e8b9ceef7912a527785f4d38de6359",version:"1.0",request:{token:"1423850325",referenceId:"0.3020147178322077"}}
+2019-09-21 12:39:33:028
+{"referenceId":"0.3020147178322077"}
+2019-09-21 12:39:33:040
+SqL6SaT4oH2di7KGlyPrpb+NhOrrDXs/mmPE08rnuUllLojqHIxsWHxSQhwYIQMKrVK3/w==
+2019-09-21 12:39:56:081
+ss1ClientRead:H9nFVcgkkpgKpxzNLJ/pX4s7xFCRQ7GwHbbT1V/+QmtGk+Zdt3/O1k8A9dcEbDLYuFpJhY1No2pgfXVGuA1ibpev23OtszWYgh93fOfZRa0eLSIkNUgyuXqnBn4xuATu90Tnzu3r9x/Pjtze+uI30sfgN5WcTvBTvinS9WGDxqngI1tQXNHWUnIjp3c41l7CkMpXcduFAUb0foSilCVTUG00eLKKlc1+C3cIwsWp1e2qB0yRrBUVMA==
+2019-09-21 12:39:56:094
+ss1ClientRead:{requestid:"55409110.f123950377",timestamp:"123950377",bidnumber:"55409110",checkcode:"2f4af6c6a607feea535fdc6a39417e15",version:"1.0"}
+2019-09-21 12:39:56:106
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921123956"}
+2019-09-21 12:40:58:396
+ss1ClientRead:LDfMCmOeZyW8l5Y2C6MgIKmyOeunBtrgEM/oFJ93vManceT8RBoKmbfYRPOkHmCkU57RbknwhvtQXINV2ciK0yPq2TQ5gDzVZmFFnnWW3Fs0h3XJX7X4jQXJtfcwZ4b3POQJies2JkXaYu62v3BeEYmdz/qVAKw/WybMGM38eDidiC8SBCrORWoyiHIC85h1ybPlzzBKFAHCDPxmAb6PhWDWnm+Wk9ANdQHmMJsULgA3DgWsJY4lLQ==
+2019-09-21 12:40:58:405
+ss1ClientRead:{requestid:"55409110.f124104544",timestamp:"124104544",bidnumber:"55409110",checkcode:"125de47efc248e3e48f2c5c1a6538014",version:"1.0"}
+2019-09-21 12:40:58:407
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921124058"}
+2019-09-21 12:41:04:323
+ss1ClientRead:eYn3PMgl9GHCGO72SVLEhYPt3JqnQb5KhBSIFcZTZ0GkVXrVkrxs+Hja3CWE4MU1sJPw4jTMqeDUVBQ5WVUfg5eimmrd7DmCUl39z/TH6XWK2sUB/1/hJ2XdOfpzWfeugt9Bi70ZQtlF3yqkGyqeqFWDTW6AeZe7m419bLxQQuV7GmE4c4IkzHoHeodyB3c3TgOgHT7KntDwmber9p+N6zzyf1lKmFjPR6NvuShpWdDVcwA45XCU+VuybfgJZ4BHpWeW5PnlmEY1wjLCbA++Xpr0/so/PsuF7wGKiQ==
+2019-09-21 12:41:04:327
+ss1ClientRead:{requestid:"55409110.f124110494",timestamp:"124110494",bidnumber:"55409110",checkcode:"ceb37f8f173bb11b2d2f2636ebf05177",version:"1.0",request:{bidamount:89100}}
+2019-09-21 12:41:04:333
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f124110494","servertime":"20190921124104"}
+2019-09-21 12:41:04:341
+KzXpVZCVe9v7vZ04gVvLBPUD2O5lH1WY3jO+K/deH+ciHyBUNfs7Zr2lguy2vzmLw7S3D8qIXiQvz0pIZdsCN3rrKMT5+WYxN0+9QSddhtWFjm91IOwzfhe6GYoqnXW2BOei+O9Sni7w5Wkr/TPonXkvAvoMx14kUu8g4gLqrLLsqjR4yFL34wsHcJJcwiiclGxU7fUHS2MiPSI2S7Z8U+B+j82ziVomjbmNzueQ6IraUurqRcThdPEXfsNeu73tqH2KuDa09QdFQPdLwuka2WDfEqTJgWKuvTtLpMSoxyEC6XVyE6amwunbogWV6aiOeJ5bwxaueON/R5kqupNEI2Zib4r+SojIyv3VkaqsvFF8n0rhuYtn/qDt0a1IdJHRBqu4qBNxc54BSMcDWJGoEeI6f9c29z4cGBMkxWnGrq19chO6ecuU3w==
+2019-09-21 12:41:04:630
+ss1ClientRead:sgFYiMCTRqZ6SFTBD4DtIo/hp4TR4+lrgX7MZW9geB/x2fLtkiG0Fh3e39GtWCYOx6GjhoK4N5p2pLEsxN/kUSc9i/k6TnE1c2USHMvMChsTeXTtajbTVdZH+7NDePAADudhPSp4KCoRki0QfZhFWYd3QzA9TX5fh4dQ6VZ2+fSq/6OK75H4w81apHzRuhRZKMkZQ5ursy7FzqkPvolZFWQMDhCurkHqkNlg2gh160Z3rIcr/FL3hFHX449PIM/WkPjEvjUioLSR52H2qG0AZjcJMLyttWgKYCmvZuFnWE3YHMZ5X7ozPe4aYXeImhurG/XYwePo0xlHtl7nsI5iAgEg3CKG1v4/3wjSEw==
+2019-09-21 12:41:04:634
+ss1ClientRead:{requestid:"55409110.f124110801",timestamp:"124110801",bidnumber:"55409110",checkcode:"52ee4cae080cdf2e5478388230441a5f",version:"1.0",request:{token:"1423850325",referenceId:"0.08236236311495304"}}
+2019-09-21 12:41:04:642
+{"referenceId":"0.08236236311495304"}
+2019-09-21 12:41:04:647
+IQuLwmk0U3xxd2sNQCLuXmXy51+79pxbzDe1E/UEhqk7FLBtY1r/jSYzMi/XtlVtREJ+10W8pmY=
+2019-09-21 12:41:25:985
+ss1ClientRead:vHoSQ7sK/eYIXNCer2/JjfNY/YY16tllZp+h8gxd4xH+AkUvyg5Vlu9mwIDa569Aoj+U4gQK4Qe84HnYgrlyEF1RGPooN8PRaaIg6Qv6/BxF1eqRzSOVi+5NqpMXlsHEmplTNoUQaimvAX5+Z+OMgoi73zx/BflVJI8mVAScTtB4W8JLLxusZ4lB5mtU2GfmPU2x7ADRgxXK0MNQkdgyNVWElq+AmHBZgic9fv/Erg9A47PsROTo++KPU1BSKjZguDv6wrFRVUVz05RxJxbUdx/Da6P8LwhL6yqWaBSztFy4xEZHnsdddejvxQMHJASPRCF9RRmzLko=
+2019-09-21 12:41:25:989
+ss1ClientRead:{requestid:"55409110.f124132156",timestamp:"124132156",bidnumber:"55409110",checkcode:"368cc2387296e9074f94506acec60777",version:"1.0",request:{bidamount:"89100",imagenumber:"7701"}}
+2019-09-21 12:46:00:065
+ss1ClientRead:PsYpJTr+WP5XWUHxKXoU06rdQBVpi+WpKijcsssF6WMt2JolRPJX/EevWPbz6/H5baODxOWls2p+eynO6PdF1c/+41tFum473ArHmGZhRTrda0BwI0A8eRuq0Ndv6coOeXOTMUDlOKsaqD3VZkHoTLCxLGJkACaVk4Fej9QV/MRasuQPAVLrLzvMl8/Wid9Y+hBGHKUdwj+tHVqLCxq1atFB4dHuTPeVbJDpyHY97MLO8T/HVKlY8FBd3ZBXGOtI5JnH7lUCNODyyH5JOP+EwPcQ3NzYAm3XHPLxsw==
+2019-09-21 12:46:00:070
+ss1ClientRead:{requestid:"55409110.f124606238",timestamp:"124606238",bidnumber:"55409110",checkcode:"f083707dc2c6be37d5f18b6a6ca05656",version:"1.0",request:{bidamount:89100}}
+2019-09-21 12:46:00:079
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f124606238","servertime":"20190921124600"}
+2019-09-21 12:46:00:090
+PyusKAuIGNh5oM1y3FK2NYFfHAJBjK6dAUpt8lrZf4tSanJeApZ/OWrTRb+2pPDqK/Es/UlyWLNaRgoMovDorApBTSn17LNxIjL7xGtFbHc49CiWmKnrcN+9LD9AWFUXVAli6UaWdCaArz5JcsiyXnOeQX6nT/GA2kMVsjZ1vxFhxjPCgNoG4rEZfsMY9a8NdQD53cRcCeGk+vNqrhLjifVtVbenwl7houLLW3KihH/uleW99qTnC86wl1kh1w8sFDTF8jTWEfXCIQK+L8q63iQWa411TOX9MwkELXAUsnE9CzCe0lPEu0mI97F8HXWvKMbCz7Njz6ovxl2Iu3SRKBtytjSC5pMqMFJhPjyooilB3Q3yrgANsd9F4vIZSe/jgSNBq8sSLLMwqUiWk2C4t61D1I55+FomGhL4lPHrQRSr+fE3b/JD0w==
+2019-09-21 12:46:00:415
+ss1ClientRead:dZqj0HiVi05X7bjMw+4PgE2aTcI+dDzQCUBtPjUNFoHofBRJa1CElwZmtZGNOKYmxOmvbJj6bByjHEy8W5sC41XI8SK3BgOFeQAwLd1t7vyXMUJc86FP926VEeBxBb7YOYqCXonPx3mHHZntVuBvYIMbVgz+Mv5F4WaRgP8QOrcioHYXXVdBfAqYFiSbVpEGXq6cxUno3rHArrtmIoCIVeKggKG1H/nXh6mH9hwTDPEvCe6av2loEARXdwtlR6AyTJtqDPeLcSlRv+jqHJi7OK4egLLxrq6FPTiu2znUs/mPMaBcXk7ducbHNtJ3f5ku8kbfeLgxlasv+BrqAgcGBlw2N8FUi+N6hqtJdA==
+2019-09-21 12:46:00:419
+ss1ClientRead:{requestid:"55409110.f124606572",timestamp:"124606572",bidnumber:"55409110",checkcode:"7d4ed2cd2e57c8bcbbf2c9ec811fe281",version:"1.0",request:{token:"1423850325",referenceId:"0.39452840061858296"}}
+2019-09-21 12:46:00:431
+{"referenceId":"0.39452840061858296"}
+2019-09-21 12:46:00:440
+J+zm32J0XaZhJBmrX+cDwfvJ1P+DlJdROHqYJCIQl3aWd7QxGlrbh2HvKgcwTJqIOj3fRFosAKg=
+2019-09-21 12:46:05:070
+ss1ClientRead:1htoXd64pRPrk6jMYk3GhzMWvok8FytVnlu/Bo14a/OcO0zaVfUqsAQzfOyLgWSPxB5D3aZ9rmtnSYIfT5V4sCZ9FHy67mi5X2LUHKL74IfjtYqauBnsNv8mtodyUtmsjDehxtxiJE6QTUL48wP9Lb+TQQgPsXiUFCz6RMC3PMQbTrDGM6fxgVzlC7DzhzCEjnyZgy7KF7W5HgZapo7/oiKpXigqY0H989m47wshb2+KAKRO6VxGKGSi9yLFCOgTw3c/j3PARtbGnz/h1Eo9J2ci2kBJkMHWnsKAy7bdW45J1/oJSQz/VgVxvqtqt1yJFDN47AlIYmo=
+2019-09-21 12:46:05:074
+ss1ClientRead:{requestid:"55409110.f124611232",timestamp:"124611232",bidnumber:"55409110",checkcode:"ef5f1f986d1a2269236941ef5c8883f8",version:"1.0",request:{bidamount:"89100",imagenumber:"2210"}}
+2019-09-21 12:54:36:192
+ss1ClientRead:tA2Xxoyhg/30KrvtBK9wrl2AkuCTYdmissSePvh8TUgfua/DyL4WPbO/Ll+vjHHVUGwuxnlboxKylMzYcA0Th0P4hZzl3nJ0IuThcpMQNdKg7X6xDtsN1icuShzsSlgB5mpPSi4d4+RYisQqcRb/Q288aqKxFdmzoESv+g3fKR33zwQNcuoiQQhGa73No4qNbW52ICQKiNw8Pn9nxl42tyH1kEpH3brIwbfRkM0E9i9/w8+ciG0Qug==
+2019-09-21 12:54:36:347
+ss1ClientRead:{requestid:"55409110.f125442370",timestamp:"125442370",bidnumber:"55409110",checkcode:"543255afb72420a1d4c1e71457fac672",version:"1.0"}
+2019-09-21 12:54:36:349
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921125436"}
+2019-09-21 12:54:41:969
+ss1ClientRead:ONSmaJptbBvEl4s1gHgPsRs508iMugtgy0o2uYSbwuCWs+5T0iw5F1+W3dXQW0+CXOo5X1c/b/mcqqSKAM1g2TwKkwNGFjzi2RxwnYGfyJ2+elKTBwltCJGbg7w9jaDG78WfrVmFjaclIb/5eFKm8BVH8W8OfQb9GLgMdOWWUnRzkr1gSZOne9XytRmrW+ax4CMjOl2v2SAq2oO7qJLT41djq3/ik/XgG9tgmLGG5G+EZQbUzM7ZDr6HvW4N/RGgsH0tWIDNPz6PiHp73zC6bDXiiU5BsWZBYhq+CA==
+2019-09-21 12:54:41:974
+ss1ClientRead:{requestid:"55409110.f125448152",timestamp:"125448152",bidnumber:"55409110",checkcode:"4a89164c8645cef13ff580c24c884322",version:"1.0",request:{bidamount:92400}}
+2019-09-21 12:54:41:979
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f125448152","servertime":"20190921125441"}
+2019-09-21 12:54:41:979
+XPRHZhKTb192fmmiHW4IE7jvQalM9cvVAK4BBvjYi3yC4E7DMZ+Tf5pnjURmFU/5DhE0VJHIZXdIYpIFDLnEo3pw4nZZzRbAhHw0y8qgFLA+ASMQoK++vEnAftKeRREBfNgOTJtNWHmKE4gUz+gX0yRNJxtGLB0kosDEKftYlSI+v6pbCSrc0u12H5JPrfIN4vu0Z5W+mTrmW6D3TbFokQYDaLJDReOTf9B2N0EOBw0tNSSthj4duVSO6qW0zcvmphFyK2qhPh10e2/MSHP5++zTIRlv5GtsrqrZmfOiEC5CuGLoHlbYX6pN9EgKjYeZq45XzQjcGtCS0LtRXG8aH8VPtxOHGY7bYx/5iZDig7wuRrz5fwpqj2qjkpq+bD35QK0idxjb1Zvspdp5vSL2UQBeUq2+4VkKQmq5Gvl0q6lpgCUq9pKcwQ==
+2019-09-21 12:54:42:265
+ss1ClientRead:StrNeguZ+C0BcHGZzH63d9EKHYX7IzdGSzoE4E9Y9VHXqFWht6LnLHQbLnNVhrnpokbH6lpZcXgioYzenDlPPpPvBUrhTa9U7WnuKCsjyALC2wPz/HSI5eyTdWMJaNVSE19gmRVDvFsacn5N18be1j+i1F3oKC7PdsIsVJl+S8N7e+pdG+NL5aDPA5DLNQ3MBhUy0jqVF6Rfy52kUYpujH8jEkqMqArQGhSUh4NrG4daQdq8CI1WMRiA36BB2G7FcXFhW+Inzq5hRud3BMxrW4rzZRxByJCgXhB8zJxQq3wkh37s++oSlgz5WwdX8/Vfzy7hucdKosP5J1ICE8RMbWycIukOx458igwMiw==
+2019-09-21 12:54:42:268
+ss1ClientRead:{requestid:"55409110.f125448447",timestamp:"125448447",bidnumber:"55409110",checkcode:"b5be7c7bcdb1fa01fec7406afc5d58f0",version:"1.0",request:{token:"1423850325",referenceId:"0.4542877934873104"}}
+2019-09-21 12:54:42:268
+{"referenceId":"0.4542877934873104"}
+2019-09-21 12:54:42:268
+c640VndgxPd9fhV8tk3PNnS96xy7mw2+xGEl3MxZyyws0qa5dobVwyLGmDxML4Bp7eOgwA==
+2019-09-21 12:54:47:493
+ss1ClientRead:2+q9toCsJgvYWPDmRuhfdTxSWlNohX++674/A3c5Cfqdmi8lj/fwXOzX2j6iRczx1bqEf1K+JZD0h613B/QUMjvPuh1f/d0t/1eYkffkIghvY2L8oPvvixVe9xxqRDXj3YW3iCk0S0PW3xJVJlja7bmvn5M9jOImnB9/O0YJyGQ+egcc2Yx4KFl7Cxm/Y86yIKjlEeYbBnoVBNvGTN9r+YCfzp2Ojej29bpM4orL4/E9kA375azlhEcsN3PfxDmY6pIHuQFGTxue6yR32vL6XZRw65hwjlfnC6HZEx9bEFmQgY6h5/pCRyMdsWK7O9yrXsqtcgSVqo4=
+2019-09-21 12:54:47:499
+ss1ClientRead:{requestid:"55409110.f125453664",timestamp:"125453664",bidnumber:"55409110",checkcode:"87e830788610d6e3b3daf8be8fa04c0f",version:"1.0",request:{bidamount:"92400",imagenumber:"3214"}}
+2019-09-21 13:07:02:629
+ss1ClientRead:THtA97FBm9DDRwwuFHVAP3lM0eEIW03hcN7Jfdiw8rzItd9hmvxfXOzlOxmea+KLjBjZ3ffaVoJ0Xo8Es3o0fyYgEfmiwGIP+ZKsPKUT+gr21O2nOPIehE0jYEc6NDclSrxjdFP7OoP+pDkVyPU4Ak0Ub12GwimppWbuzAKBiUxZTuyC7VXLXTs+ZoabrqlWplmNjb0BVZiAZtcKLnjkKQ8McKYxLrEVdbWOx+28VZuUApli/kNow6mTXQd2R/8QgTbyyLh1YuXLDoQR3DjDbLQFlI+rvIoVvbjN2w==
+2019-09-21 13:07:02:633
+ss1ClientRead:{requestid:"55409110.f130708819",timestamp:"130708819",bidnumber:"55409110",checkcode:"4bd9c1226e581ff572fcc7cf53002812",version:"1.0",request:{bidamount:92400}}
+2019-09-21 13:07:02:639
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f130708819","servertime":"20190921130702"}
+2019-09-21 13:07:02:643
+kmgIzMOFldXBI3rjzqtbbj6u+BgTu4x4iuWMl470vEVt1Msgkj4CFHawvcvfRmx4Auxx0FAmLoTlXqkOr9fMTYQlrbHz5YfGl1NlEr/mp7nvcs9Yhr0tDcPyH7eA26d/gO0HOnkkJM0rk48tUVZxKudMHdTmN0KLiFqAKMStfUIo08mC+7inSZpZTdA/Dga50Fp1L8r7s2BMOnAhGeGXwQo3MUEH8uI8ntdaxFelmTYnQLDzYN19KS/SGYi6jtR2QoBeyD002ifxdpkjjDywZ3LVPzRqCrS6K5Ntoo0CtVnMiMrwUsw3dUB/oelBk5M+o+OfpEsLQwx3rUPIuWbjSfSHn45ypNdZlsrUAVa2oRIqBKdX8i6ZurHki4LVMxU2gkP1HWYfWJkj+uXlak+fb2OuG6kv5WvS3IvkH2jiRLli5PBpNQbwCQ==
+2019-09-21 13:07:02:946
+ss1ClientRead:Vr+YWdyx3n2EQmeGPeBvge0FXYvHRysgrKwcU3ewUkqkaL03tmQPm6OeY5wrPp83MSiPUOYChlHf2RZpJtzPNcGqhVyyVMe54gVMv6xFYGGgAgqFBc5fJ6oshuHx9aMb8BKfeXtq0Z5PytDl8KZkRHU0n2NHJYOMcPg16WFo+JUgUbPKiqDVOXwxp6SV7McmqR+WJ0j5VsAjg2YReQ3g3xKxQp2prqEAxN+7CParIJiE1blxK3juHbkH7V6kTa2BNzIdt5kFFUI7e5SSvTj4RXLMZfhATqSTmSp6bN/cS8NZSSSwhDSMWwmGeGW2mg2rJiD0ehriQk1vT51LBrUBFZkhDyI4wOpihFXgDQ==
+2019-09-21 13:07:02:952
+ss1ClientRead:{requestid:"55409110.f130709136",timestamp:"130709136",bidnumber:"55409110",checkcode:"1cec070e193100a14751126b0ce3d4c5",version:"1.0",request:{token:"1423850325",referenceId:"0.06170110963284969"}}
+2019-09-21 13:07:02:960
+{"referenceId":"0.06170110963284969"}
+2019-09-21 13:07:02:964
+scM/NwerdXIKrB4UShpz9JE5RYAq0JjqG+RtpNj/azICdRaFXrCRYv+tp0Abhxb5yryDCP17a4s=
+2019-09-21 13:07:57:250
+ss1ClientRead:8MuyIsSufc/3yWtCsVSdVzJXWgUGqzByL94BNdJvOKyHamLqvDkOYGmLXz1s7teheWkVHcXquLsg4ebbMAUsBR9iSmS77buu3n+hwfJ3uw9bbvuPFSyLxJudmL8TbRRPtsFx68Z4xuGzszSK78qqyxzi31lEJvap8fFK8aJ8nVorFcosrISwUxo/TiOklN6dMCS/rTkDInVQbMT4BwuSDA6A5FXGNcovKjs6xtCesni3sq9vOuhJeAjiN3hMQS0jcP8mtTBev4QFfCIpvgLKmWYHZlOG43CGRk+oaaB1euF/8IAgbR3zZGciCqJugxoS/ZZCvHkh1EI=
+2019-09-21 13:07:57:255
+ss1ClientRead:{requestid:"55409110.f130803396",timestamp:"130803396",bidnumber:"55409110",checkcode:"070be49b0acf8445bf9f0102bdf57978",version:"1.0",request:{bidamount:"92400",imagenumber:"1234"}}
+2019-09-21 11:07:47:098
+ss1ClientRead:9ALh1xfSKHw2tO8j9Z+CfstlCiPaQZj45/NwKiebKkFUCXNqgHSQZLmQ9nMeUZO10s8KQs7UAj51NMyer0LCLemNIu5mIhRlQMfmIA1dvph9UaEhvaN9xSY/bDGcTkQRyqCTdKaYOCuMWCdSyPtB4nr9D4uTATW1TfdIxoaMtUo5cADfMzCjS/dGKubhpyLiJRJuJlqtmvJZwDEcDvCJ7FcW89xkq/RmPjniuXLg9K79OT0G/hkS5Q==
+2019-09-21 11:07:47:206
+ss1ClientRead:{requestid:"55409110.f111201442",timestamp:"111201442",bidnumber:"55409110",checkcode:"e7a5d0a80d7608e5ed83b4c3ff961529",version:"1.0"}
+2019-09-21 11:07:47:238
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921110747"}
+2019-09-21 11:07:48:868
+ss1ClientRead:W118xzp8UcqImeNnix2dl98KizyViruG0ATsy2YwbI8JwkHCsDwnxBVrVD3s90Zlvu1+EqRS796q2npX9FdirhccmkdorrxwQFXGWVpcc5UnhPkSbca6SOG5Ma0HAoyUoABXYxBXBVUeVAcVQj5CpWtMbKRMegZlw03OoUQcbzOd7gl+uBGmJqGIdvwgygQY0cqw/ZnCBfnK3zcLcOXV2aQxjL6y/Y3p3zUNQq5xfc4rQRHFyHx/lA==
+2019-09-21 11:07:48:869
+ss1ClientRead:{requestid:"55409110.f111203188",timestamp:"111203188",bidnumber:"55409110",checkcode:"08e167c8e64b6b94c5b9f84d4590d1a2",version:"1.0"}
+2019-09-21 11:07:48:871
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921110748"}
+2019-09-21 11:08:55:176
+ss1ClientRead:qdHyScZXu+2XdOwPk7NEoZ3tNDXVi+VpJBwAocDIeotGIGWlui+LuWkKb2p/rY0SPgyPBVhVzqEoHY18i9w14LaBhs0c+CDzPW4x+yQvNO7892xctA9XIyVrx9352pPt/sdArXmBaRU3OZE+jNary2YkyPJTohlBFym8s99CM4mmjs4X3m9y1fwV4Mg2dSptGepT+F53juKVgyGM/lvcRHDecshP6wf2M+OvT/IlJrh0JiZqqhKnhtyHmRwAYYhTcQ9LVQyRS2iBsGaoeRFFhZw5313VzvBWcnLRMg==
+2019-09-21 11:08:55:177
+ss1ClientRead:{requestid:"55409110.f111302896",timestamp:"111302896",bidnumber:"55409110",checkcode:"daaad2fd169a44a0e52e30d7ea13eb06",version:"1.0",request:{bidamount:92900}}
+2019-09-21 11:08:55:278
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f111302896","servertime":"20190921110855"}
+2019-09-21 11:08:55:281
+ZlWBYZ2vwSe/nQVDHNpj8FK+SdU7RIXcdEHQ6MQhrafEH2MYkKJzvIWNmX8ecLdTbXsVXD1Mw2aDyc0IV/KcShsIatYS0nCITSGQkK+LlZAmnMA9DOapiRr8Xmnb8hAxgwFpW2LLNBZ0K7r/Mu4ye18DTs2J1G8fK9oGuFybj5oDleql1tlJZBOa5TdmtCdXB5wCkWK+dxAhCgt0vOu1czMct1KvybRsHM0m0Y1zTBUErv7LmktKHqzapucTA/I8YW+kpM583pIyzl2CIstwH/AtzUkp+sANIhqGgf82OxISULaIszxY/QrW7vAHJ6mHFJvr8jCcuw70VMtzrXRqfE5Wp/OS7FMQR2vsYpHfVRpIKGLPXiH/iM32uOuXWDDc3GCOffez6SohTq8O2wx5xe1+4W9Zyh+D3AMW99r/NSsxEGdKRjdOEA==
+2019-09-21 11:08:55:835
+ss1ClientRead:91kIebRUrhl9xB4D1+RFTi/ej+igvA7u8HEmmWK+lMQnsMKetOgk9dy1KLW/jU+JebZF/pEApsWHiQODTICHZuWn8spbMCepLJd1p43Q+DfYxk3U0wbTUy3ubc+YjCPOxGWmdGdKrY5aC5y04p1bOpZEOLbhZs44xvFjmeAPbJmg1U0/4Re65ywwl4Lxzfo39rsApgf7/qjxi8JdHhWYgtUu6aPBWyEdrIWK1GWcPFZWbGyTcop9zWCDwZcq2C6R0V1lTDL5ucUxuQz0GnhdXT/Wpzi2ywc4vAWCoKioRLxKsqCOdY9OFVOfyZmt97PuMDZKso7RNXZKrMz/9Gl7eAthl/7vVV1XrYYg2Q==
+2019-09-21 11:08:55:836
+ss1ClientRead:{requestid:"55409110.f111310136",timestamp:"111310136",bidnumber:"55409110",checkcode:"98f630aec63cbbad6945498766726902",version:"1.0",request:{token:"1423850325",referenceId:"0.29428862361237407"}}
+2019-09-21 11:08:55:849
+{"referenceId":"0.29428862361237407"}
+2019-09-21 11:08:55:851
+Cgf5HT/591kt5Q8PNQW5O9FQ2PrMEyKMXbs9wUCaKDKoBRa8meMArYVGJog/FKw/VhKC0TFhBWI=
+2019-09-21 11:09:02:039
+ss1ClientRead:4Nyqmb2xzdJWDRzww/UD/pN0nPqDXlnGdul3JWLScwS7QVh+3IfAtrNTx8NB4EeqzF7W4Gdc25LxYEmS4GBfCwrnObXIigrdAcLudWI41igL101Gt0py/yAYABRJXrPPyr0DAKTEJ+b9ca14W9Fq6c/MC8rdN3KFCswX6HXVBUdpnFMkT+IDk5AoFpzWrrvOyl4tjlJEvugU/61li85AWWJQtBoKTXzWVZN/hemsCA/nqv29mWUlajNkVU3xufm8WCTjqvmMwHPgnc1cmdQYiBZL6oIUPeiILZM70i85WM3Te+cM8/yZ293VZ/rBCpkslLeFxvu05oc=
+2019-09-21 11:09:02:040
+ss1ClientRead:{requestid:"55409110.f111316356",timestamp:"111316356",bidnumber:"55409110",checkcode:"a2b652227d334891d19cac1ec2087327",version:"1.0",request:{bidamount:"92900",imagenumber:"5555"}}
+2019-09-21 11:29:37:759
+ss1ClientRead:+gWnrEaz9t83g1U+tEUu/FoVRSIw3lIi4PXakw+d1EgS3HWXBagwwfAdWVYCPSzbjPJL3BSlYyQBftb8ai8y5v10gN1toqpK3IbG7X9ragacLYBv9DUi+yFKY6XO4hfgHx0tR4lUqdIp1YXUS3bhN6LVTb4MzOtGIBaRELSGv3aSfDgRsmJ4kbtB7gp9rygP2IDQ4VArgmCUxrMcP3URDNuhLp9hHVOmnFGZQJIgz1W96LGH3WCD0Q==
+2019-09-21 11:29:37:759
+ss1ClientRead:{requestid:"55409110.f113352177",timestamp:"113352177",bidnumber:"55409110",checkcode:"ce4c5e2b3809e65d393fee736cdb3305",version:"1.0"}
+2019-09-21 11:29:37:759
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921112937"}
+2019-09-21 11:11:08:243
+ss1ClientRead:xrfRMkqCDeOPEEEXWyDOQKPFo9e4cYQ/rEopogssRz6+hcX06FlYaoxN5W5d6El9G/9tAaZ0M6J9uV1XDAi/zjv2nJqQuMWm4zI0yRBcxMBivbp94VsA7F1T9EDALlr30qh62sOBHm6weGYXsRGwt5mnZ8fGwMvYeY0eLQGmetOWSScqcEjz4WAEg3dDY70vDZQx85fWimIPaaRf5Nbysb3zOatOSXRBcTrlRcqnbPVqBWeZlKV6Jg==
+2019-09-21 11:11:08:709
+ss1ClientRead:{requestid:"55409110.f110731794",timestamp:"110731794",bidnumber:"55409110",checkcode:"923c5c80c5b31cc8a4b2955b5f886129",version:"1.0"}
+2019-09-21 11:11:08:828
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921111108"}
+2019-09-21 11:11:09:803
+ss1ClientRead:ny/wOshyZs2O7EnqsoJAswY4JJUwggEj4bIS/p1W7JFnojYNdSutxybKTmo/skLHCySgJWXHqdT9jRrH7rQWdzkceVMDZs7US5GV5QswKNBDVBuFdV2j8ruBuDU0Ch42tBNyn4vQsOUeWZ70Q9oBX7rdF+LOROq0LfjoH1RiHAQ3Gh4nmTRVa22tsk45zw1jOdH+QVSzG407Q4ESPiE0RLy+WKa/U7+aVEkl5aRRytiumV7pm4NyTg==
+2019-09-21 11:11:09:805
+ss1ClientRead:{requestid:"55409110.f110733384",timestamp:"110733384",bidnumber:"55409110",checkcode:"f71d896365aa00cac63aaa818caadaa6",version:"1.0"}
+2019-09-21 11:11:09:806
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190921111109"}
+2019-09-21 11:17:30:346
+ss1ClientRead:pqNMHY5cMswDZbqpVde40hhmoDTj8z0KEV16q9O1rP3GcsdG1qExCiUuXRKNJXS2WXz+nXQzOK2qhmLMUvCcbL6M/rXtkdjPRrRY+L+fhB5lDwfEYkcr6LLrTqu84FZORdFA6MaqArsQkL8DB3d5sRwPH4BMIZJS9cTzTM2cXwDq2wdAexl0ex+5LYzGgjr/Zluef6OK38jJLh+K1s/LI9nrtdU0ow7yTWbbdBVVJPe1v7zS0H/jyS5Ncmr6xuzTvLbTJM95HWLbhlxOq3/7PUZUPZ2nsXSXXEqSeg==
+2019-09-21 11:17:30:348
+ss1ClientRead:{requestid:"55409110.f111353855",timestamp:"111353855",bidnumber:"55409110",checkcode:"3a220cc2dda1017190336c05afa2fa60",version:"1.0",request:{bidamount:91200}}
+2019-09-21 11:17:30:434
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f111353855","servertime":"20190921111730"}
+2019-09-21 11:17:30:436
+uzr8i0qRmoF/CN9vjiM9br5oZQ+JHcrEpkznbUaxOzTccxNLnPrbsBHzJKhlZ0+HFv3yfWIE6YUlnXzphxYUZ0qjwp2L/TnBsukfKibwK+zrk7WDcw5osKlOgNeIzFVF9vjf/york8BQAEUoxa2wkgeVaMgdmzHeeVlg2s5j5likm7gveBc08wigZbGDtA+7WcT4zC4TtEM9bsVS/WsIdyCHLyvQRm5Kmq98nd8jpLR7G4du5AUOcLMhX301R2MbFfnf3dLZ92rbrtUrgQTSQes4mAlg9UyjpYgLuoMHZXaeIDb0ROvOIRqkKxwl4UmbJv3KEtIwMi9amC+eGUttQz1rlSvAMHWwZ2E2Ul3oPdXtMi6ZWt20pIDQgFe4nZT75jfOAwYWfFFgsykyfoUTtaLEVWRALqVKbtSrVscJDOt/usQj1klJwg==
+2019-09-21 11:17:40:074
+ss1ClientRead:noZdxUVAUrbXteLe45ckYU1tNqtDyZTqINqNjoDOcN7uFhk0pxqxkkUSVyQ1sgNTsFc0SmjvHKwV7fC/JeZ9JghVd+/9Toaobt4GquNLwYGzQAlHupKW0BTcJSY/jgau/dkRc8tXZ790sr4iPmZXugrPTXvK3lyTffY0opjQbWlN9PBMVWgrgO4CVMkpINppBFsccePZ4LCYRZQBGHUWiZPDn9xhforuDO/wwONUiDJOhi9S+ioal3e2TYkrZ9khmiDmjdMtBZVYg9+n3drO208sA9BOIuprJ9S2PZqwxew4zBS1znmNc8tZ6HD/UjLAYKFSQw+aB4r5TjGAml/hnMR0U+TGzzWAKLhUdA==
+2019-09-21 11:17:40:075
+ss1ClientRead:{requestid:"55409110.f111403606",timestamp:"111403606",bidnumber:"55409110",checkcode:"b37be9a3552fa665e5018bf2a0427ce3",version:"1.0",request:{token:"1423850325",referenceId:"0.18663666164502501"}}
+2019-09-21 11:17:40:087
+{"referenceId":"0.18663666164502501"}
+2019-09-21 11:17:40:088
+rFtqFpWTEDMIyxhvWW+VDvDs/esmmTDpD1VktM9EaTXDwk54MZbmA6irmlFFgBr+veaJT7EvCt8=
+2019-09-21 11:17:47:430
+ss1ClientRead:YRyWrwjFhu7pQ29Wa+Db7nND8tu7v7fiaisi8SY+ggEwavIaC1SzC89OnzzCpaE9ckJhGfi1rNJiAVPKKDcvdjHh++g5B338kUHx9owpoqdKiBAfAkY7u42NWffM05kKzIeFO+QQA0e0Ax7LozvnF9lVaBMN8nGtWh493l4i1znYdiBQKehN2UmJKUo3046sAhwpDPOXYhRG7f+Kz7UCM0wSWPPJHprcdyVxkJJ86x8ydoCFEddkvnswp160d+4sM4nId3XvwfTvWCZU/+kugmE5XfZtb9LvRZ/uw8B40FeuWF1MEm1wAvJw5Jzdksh99kvBCBfE2lQ=
+2019-09-21 11:17:47:432
+ss1ClientRead:{requestid:"55409110.f111411045",timestamp:"111411045",bidnumber:"55409110",checkcode:"7407f0531740ee217a8f3c3172295126",version:"1.0",request:{bidamount:"91200",imagenumber:"2222"}}
+2019-09-21 11:33:21:793
+ss1ClientRead:yiUbI9etcjT8Ardt7QwJbIBTqPZ8yUc3n5P7LWUYK0GTwU2hbfnxTuvAbYYD/ypAIfO+KQKYyHbUzoUGcnjOXAONosAJGgn+e5QxRZs4zF3+WRxW1rWmBWLeUVVFGati47YQ8ESsstqMCLFlrEKja1h4vXUPZ2ezq7VYqCCMJQt4Q0882vV6zX4nHr7ajkfqr5EYBDbMwk0gT/lEcMrs+HvgXszcTrBVkfsdkcJJ+5bNZqj8SVJlzB07T+U7GFkEuym0EeoscV6D9Z4vpqYU9aiYG3a1sEQyo/99kw==
+2019-09-21 11:33:21:794
+ss1ClientRead:{requestid:"55409110.f112945380",timestamp:"112945380",bidnumber:"55409110",checkcode:"a6498d73a019d7308ced1b47d7844aa1",version:"1.0",request:{bidamount:91100}}
+2019-09-21 11:33:21:810
+{"response":{"responsecode":0,"responsemsg":"Success","data":{"prompt":"输入红色三角行数字图像校验码","type":"0","captchaImageToken":"1423850325","expression":""}},"requestid":"55409110.f112945380","servertime":"20190921113321"}
+2019-09-21 11:33:21:811
+I6Nr500tTWXDg4/sasWmTGvT1dvCOOimWE+yJPUYFqu5rsiEHNJfgIVpIIOE8u5EBb1OXc2/giFPOLaTNpUfJGYUS63/LEUAANPgxfYfRrag1C4Ge0ivreBckGeHLojf721o/N3PbT0K8udgZYzVjTrTsRslC9t+Ws4YWbA1H0Vdhj5ZpciOGUgnjMumCVCSd17AF/0ia7Dl1BOLuE/xl2+CbVvl64J3h+b1+aSK6Z0cuZgz451zQLjUyYQzD0Ge35il+qmL2bv8aaudACOJ+e9AJGOKb2WL9GESHXEcY3+8c6Q4mlW4zQboNwMjM3BeghSbdhrUtgiS9VBqH/Y4PfUi7DoelLQo1B5k8h3YHWK2qRdpYO7ts1xcE5piOv7errbpnVaouwWH3tsWCEZvfxJl1GzOFb1ozH+Sam+emZAUIOkpYbNzRw==
+2019-09-21 11:33:22:339
+ss1ClientRead:r25Z5ZDsU2SgnYG3jYGh9TODHLFyeQC8dp+6PLXymVmBCkciokLxwoDovUkK3TkAx0qXgkUpHovkB87K7Lg6/s3pW757R9IdJeh33FsPVryhoodxJdjK5bUMHD1qdU2L+rwMx638/NbsG5jrtNGuA8U0oTmuIJU8xaTusVPuEebj34dOOAVxVzi9odL+WbO86K17PD0fYw3juAvLPGYF1W1Z5hMNV0LKDnHrLoTUEsKZFDQrdSXvvpDKceFNgP4B3x7/wtUFrb3v6awt2ZUPomjioesJfLmGroEHZEs411nGL4+GB4Vlgxm+f4gVAOnYpNZi9DgFFMH7XY13w/Lg8rjoT2WTDB7GFcEUXQ==
+2019-09-21 11:33:22:340
+ss1ClientRead:{requestid:"55409110.f112945868",timestamp:"112945868",bidnumber:"55409110",checkcode:"d77f577ff7d70b2c76e98ba2cae49742",version:"1.0",request:{token:"1423850325",referenceId:"0.10221108421683311"}}
+2019-09-21 11:33:22:359
+{"referenceId":"0.10221108421683311"}
+2019-09-21 11:33:22:360
+7fybwmQ6JNuZcwwxfLzw1jNQGClnOIXAvqD/pGX8g8MCLY9QDbL1+ZDo3swzY8VYLPQVNQi6UJs=
+2019-09-22 07:54:32:367
+ss1ClientRead:NouEHvZ0tPspiR0RhRvuHsSlEMCJiUYE1winSQ+ZyU+csYa7DM4u+w6Ky+Cp8Ecek6S/tVMuqytzvlz/ZGjXSjjbY0Cfd5O5PbRC5dZo2DCxIrRhZaMR2r0IFqWh0FTYcYUyLnLk4QDaCif59BE7P8Dhymt2Sef6GqtaXyl/Cy1yK88e0g4Oz4M35yOn5QYy3fRkewKULvEWNKDuUGd0EHOeeVI+lyKbbI5U7gDIG4cV8q4GD5eoGw==
+2019-09-22 07:54:33:628
+ss1ClientRead:{requestid:"55409110.f075057225",timestamp:"075057225",bidnumber:"55409110",checkcode:"a3cb5f2ef68b1bb7ece3242e08bfbed5",version:"1.0"}
+2019-09-22 07:54:33:632
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190922075433"}
+2019-09-22 07:58:05:422
+ss1ClientRead:nLOpMP9X3m/NFCoAa7ERw56ezg3tIUCZ7SiL8z4H2UxcU66Ej5klgddXcltCTn0OO2DT1io2vF5loAGcJJDbSedAq0YjbRx24wFMelxVhvzHYSv6T/rFv/TXQlzvahUflPrUaZB4pMIekf7z4HUumhYgUFfQpBtAUil9yLPD+9LtbG/Rez8RBmkCGTHpzOtE5Z3hRWGavjz7BQDS+gmV806yFlwEpBBWgqi13vFLLRoy+rYoUJKOCA==
+2019-09-22 07:58:05:423
+ss1ClientRead:{requestid:"55409110.f075430324",timestamp:"075430324",bidnumber:"55409110",checkcode:"92decd659658e9f9c45bc554be1e03d9",version:"1.0"}
+2019-09-22 07:58:05:426
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190922075805"}
+2019-09-22 08:00:15:369
+ss1ClientRead:QdT1CjdcVb2nXUejHeP+C5qyHwjnyzBqZCccMOJPmMrmOmAE9Ue8BVlIBnWFTHnEZ5lWZJ5jTnu4tLeS11evrtyHHw/4HFdDeZh0jZeO0f+WPk12wR4CocpWFHfVZEVWvDgvB5Grd0q1M1JMvyKmUQeIFoYeMVYf5Swhrn+0q5L0r/3oPu3ozbq+KEX5W0cBtaOZz6F0TXOwQ1VxDZKd0WBWIqA5Y3NKehs9XSITGSJMRNpsq5qcXw==
+2019-09-22 08:00:15:371
+ss1ClientRead:{requestid:"55409110.f075640275",timestamp:"075640275",bidnumber:"55409110",checkcode:"16d75cf0eeef56fc7d452e172e41a766",version:"1.0"}
+2019-09-22 08:00:15:374
+{"response":{"responsecode":0,"responsemsg":"建立成功","data":{"informationtemplate":"","results":[]}},"requestid":,"servertime":"20190922080015"}
